@@ -1,0 +1,7 @@
+,,Combined,Combined,Combined,Combined,Intent_Acc,Intent_Acc,Intent_Acc,Intent_Acc,Slot_F1,Slot_F1,Slot_F1,Slot_F1
+Approach,,Independent,Intent→Slot,Joint Model,Slot→Intent,Independent,Intent→Slot,Joint Model,Slot→Intent,Independent,Intent→Slot,Joint Model,Slot→Intent
+Dataset,Architecture,,,,,,,,,,,,
+ATIS,LSTM,83.72,46.99,90.17,45.41,73.46,0.0,87.23,90.82,93.99,93.99,93.11,0.0
+ATIS,RNN,81.98,46.9,83.38,35.27,70.77,0.0,74.47,70.55,93.19,93.8,92.29,0.0
+SLURP,LSTM,75.79,38.22,74.68,38.38,76.77,0.0,76.5,76.77,74.81,76.45,72.87,0.0
+SLURP,RNN,40.34,36.46,50.82,17.06,7.8,0.0,32.04,34.13,72.87,72.92,69.59,0.0

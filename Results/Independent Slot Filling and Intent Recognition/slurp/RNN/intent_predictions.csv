@@ -1,0 +1,2975 @@
+sentence,actual,predicted
+event reminder mona tuesday,calendar_set,calendar_set
+put meeting with pawel for tomorrow ten am,calendar_set,play_music
+what is the exchange rate of us dollar to pound sterling,news_query,calendar_set
+increase the brightness of the lights,hue_lightup,calendar_set
+which film the music comes from what is the name of the music,music_query,calendar_set
+turn up the brightness,iot_hue_lightup,calendar_set
+can you give me the movie schedule,calendar_query,calendar_set
+please send a mail to my friend <unk> how are you,email_sendemail,calendar_query
+take out the milk from the shopping list,lists_remove,calendar_query
+anything on your mind,general_quirky,calendar_set
+please scan my social media and tell me what's happening,social_query,calendar_set
+i want to know more about this event,calendar_query,calendar_set
+new tweet to consumer service,social_post,calendar_set
+clear my calendar all events,calendar_remove,calendar_set
+do i have any appointments,calendar_query,qa_factoid
+make new schedule for tomorrow meeting,calendar_set,calendar_set
+i want the status on my screen brightness,general_quirky,calendar_set
+is there snow in the forecast,weather_query,calendar_set
+i would like to hear some rap music,play_music,calendar_query
+send email to jessica,email_sendemail,calendar_set
+schedule a meeting with the accounting department on two thirty pm on friday,calendar_set,calendar_set
+just let me know the important meetings with my boss over the week,calendar_set,play_music
+say the list,lists_query,calendar_query
+can many <unk> did sally sell by the <unk>,qa_factoid,calendar_set
+lets have a chat,general_quirky,qa_factoid
+turn off bedroom light at nine thirty pm,iot_hue_lightoff,calendar_set
+give me some health <unk>,general_quirky,qa_factoid
+find me info on cars,news_query,qa_factoid
+i would like my robot to feed and pet my dog when i'm not home,general_quirky,calendar_query
+launch super mario,play_game,play_music
+review all alarms,alarm_query,calendar_query
+how do i make a turkey,cooking_recipe,calendar_set
+please alert me,calendar_set,calendar_set
+i am unavailable from four to six in the evening tomorrow mark my calendar,calendar_set,calendar_set
+what are the coordinates of the <unk>,qa_factoid,qa_factoid
+light colour for study room,iot_hue_lightup,qa_factoid
+could you please confirm if leonardo is married,qa_factoid,play_music
+i would like it to be able to <unk> answer from search results like <unk> <unk> does,general_quirky,calendar_set
+turn off the porch light,iot_hue_lightoff,calendar_set
+what is the time in chicago,datetime_query,calendar_query
+please tell me the <unk> of the game,general_quirky,calendar_set
+can you send an email to,email_sendemail,calendar_set
+is <unk> birthday on april twelfth,calendar_query,play_music
+set a reminder for two days prior of the event,calendar_set,qa_factoid
+tell me something to remind this week,calendar_set,qa_factoid
+post to facebook i'm hungry,social_post,play_music
+i love this music can you please save this to my dance playlist and remember that i like it,music_likeness,calendar_set
+is there a <unk> in town for cats only,general_quirky,qa_factoid
+shut the lights off,iot_hue_lightoff,calendar_set
+hey what will the weather be like to today in los angeles california,weather_query,qa_factoid
+speak softer please,audio_volume_down,qa_factoid
+i have my clothes list,lists_query,calendar_set
+remind me to send email to boss after one hour,calendar_set,calendar_set
+<unk> reply to jack so please send a mail,email_sendemail,calendar_set
+clear haircut today,calendar_remove,calendar_set
+am i free at four pm,calendar_query,qa_factoid
+anything new on <unk>,social_query,qa_factoid
+what is the definition of <unk>,qa_definition,calendar_query
+remind me two days before my wife birthday,calendar_set,calendar_set
+send an email to <unk> dot com,email_sendemail,qa_factoid
+light up the lights in the kitchen,iot_hue_lighton,qa_factoid
+what items are on my shopping list,lists_query,calendar_set
+wake me up,alarm_set,qa_factoid
+please show me marathon nearby me,recommendation_events,calendar_set
+search the locality,qa_factoid,calendar_set
+did i get new emails from sarah,email_query,qa_factoid
+what day of the week does christmas fall on this year,datetime_query,calendar_set
+what events are going in my town this week,recommendation_events,calendar_set
+health,general_quirky,qa_factoid
+can you book an uber for me,transport_taxi,calendar_set
+what is the population of russia,qa_factoid,calendar_query
+help complaint to consumer service,social_post,calendar_set
+<unk> <unk> panda three,recommendation_movies,calendar_set
+where was president madison born,qa_factoid,calendar_set
+what causes <unk>,general_quirky,play_music
+please tell me how to i bake twelve <unk> cookies,cooking_recipe,calendar_set
+is it raining tonight,weather_query,calendar_set
+give me the weather forecast for this week,weather_query,calendar_set
+remind me of how many lists i have,lists_query,qa_factoid
+add business contacts to contact list,lists_createoradd,qa_factoid
+please open chess game i would like to play with you,play_game,play_music
+anything good happening this weekend in the area,recommendation_events,calendar_set
+in how many hours will it be midnight in london england,datetime_query,calendar_set
+bring me the title of current music,music_query,play_music
+what is robin williams birthday,qa_factoid,calendar_set
+listen to radio,play_radio,play_music
+remind me to take out the garbage at six pm,calendar_set,qa_factoid
+let's tweet a complaint,social_post,qa_factoid
+what new emails do i have,email_query,play_music
+play something from <unk> <unk> and <unk> album,play_music,calendar_set
+get me the popular news from bbc,news_query,calendar_query
+i need to get a ticket via train to orlando from hollywood,transport_ticket,calendar_set
+go on sweet talk me,general_quirky,calendar_set
+what time is it in new york city,datetime_query,play_music
+tell me my schedule for later this afternoon,calendar_query,calendar_set
+current time in japan,datetime_query,calendar_set
+start playlist,play_music,calendar_set
+has it been a busy day,general_quirky,calendar_set
+book my train ticket from las vegas to los angeles,transport_ticket,calendar_set
+ask for the weather today evening,weather_query,qa_factoid
+what's the funniest joke you know,general_joke,calendar_set
+turn on favorite songs,play_music,calendar_set
+do i have any new email,email_query,qa_factoid
+what is a <unk>,qa_definition,calendar_set
+is it going to rain on monday,weather_query,qa_factoid
+do you have any <unk> action movies,recommendation_movies,calendar_set
+current time new york,datetime_query,calendar_set
+speak loudly,audio_volume_up,play_music
+set notification from world news,news_query,calendar_set
+play me an upbeat song through your speakers,play_music,calendar_set
+what time is it in pacific standard time,datetime_query,qa_factoid
+start the vacuum cleaner,iot_cleaning,calendar_set
+searching information online,general_quirky,calendar_set
+i need to change my house lights colour to blue,iot_hue_lightchange,calendar_set
+play me a song by <unk> <unk>,play_music,qa_factoid
+prepare coffee now,iot_coffee,calendar_query
+find me a train ticket to boston,transport_ticket,calendar_set
+please find all name start with alphabetic of a and create a list,lists_createoradd,calendar_set
+currency <unk> please,qa_currency,qa_factoid
+did the price of walmart stock go up or down,qa_stock,calendar_set
+save my opinion on <unk> song,music_likeness,play_music
+please add practice on <unk> four at <unk> park at two pm,calendar_set,calendar_set
+send an email to my brother and say wedding anniversary,email_sendemail,qa_factoid
+is this program is scheduled,calendar_query,calendar_set
+confirm a travel ticket to german,transport_ticket,calendar_set
+road traffic,transport_traffic,play_music
+turn the lights off,iot_hue_lightoff,calendar_set
+what reminders did i set,calendar_query,qa_factoid
+how is the weather like today,weather_query,calendar_set
+add tomorrows dinner date to the calendar,calendar_set,calendar_query
+delete item,lists_remove,calendar_set
+is my schedule for july seventh completely open,calendar_query,play_music
+add <unk> to the list of things i need to buy,lists_createoradd,calendar_set
+<unk> i have to get up at six in morning,alarm_set,calendar_set
+what do i have to do this week,calendar_query,qa_factoid
+get me up in half an hour,alarm_set,calendar_set
+that last email needs to be answer <unk>,email_sendemail,qa_factoid
+reserve the closest uber,transport_taxi,calendar_set
+start playing my most recent podcast,play_podcasts,play_music
+please tell me news related to the stock market,qa_stock,play_music
+i want to hear the last news from cnn,news_query,calendar_set
+what's the date of the winter <unk> two years from now,datetime_query,calendar_set
+olly clear the list,lists_remove,qa_factoid
+resume the song from the audiobook by the beatles,play_audiobook,calendar_set
+could you reschedule my meeting,calendar_query,calendar_set
+what is the first metro to dc,transport_query,calendar_set
+show me the best recipe for spaghetti,cooking_recipe,calendar_set
+display list of recent emails,email_query,calendar_set
+get me a uber,transport_taxi,calendar_set
+give me the description of a smartphone <unk>,qa_definition,calendar_set
+<unk> special podcast play it,play_podcasts,qa_factoid
+add podcast favourites to playlist and start,play_podcasts,calendar_set
+set an alarm for six thirty am,alarm_set,calendar_set
+when is my brunch with jennifer,calendar_query,calendar_set
+replay the <unk>,music_settings,calendar_set
+add conference call at four pm to my reminders for today,calendar_set,calendar_set
+will it be a <unk> night,weather_query,play_music
+has amy sent me any new emails,email_query,calendar_set
+olly set alarm for reminder,alarm_set,calendar_set
+slow down the speaker volume,audio_volume_down,calendar_set
+set a reminder for the thirteenth that i have a lunch with dale,calendar_set,calendar_set
+my day is going well add a memo,general_quirky,qa_factoid
+whats the currency exchange rate for china,qa_currency,calendar_set
+start playlist and play music,play_music,calendar_set
+i want to know more about the fair this weekend,general_quirky,calendar_set
+tell me if i have any new messages in my inbox,email_query,calendar_set
+play atmosphere next,play_music,qa_factoid
+please <unk> this post on twitter,social_post,calendar_set
+what is the minimum temperature of london,weather_query,calendar_set
+olly does shibaru sushi deliver,takeaway_query,calendar_set
+play the young turks podcast,play_podcasts,calendar_set
+i want to know everything that <unk> about the <unk> breaking in california,news_query,calendar_set
+play me a random audio book that has to do with love,play_audiobook,calendar_set
+show me news about the environment,news_query,calendar_set
+and the <unk> has fallen,iot_hue_lighton,calendar_set
+when will the world end,general_quirky,calendar_set
+how is i. b. m. doing,qa_stock,calendar_set
+describe what a <unk> is,qa_definition,calendar_set
+who won the presidential election this year,qa_factoid,calendar_set
+turn on vacuum cleaner,iot_cleaning,play_music
+add this to the list,lists_createoradd,calendar_set
+how is traffic in city,transport_traffic,calendar_set
+please play me songs from the eighties,play_music,calendar_query
+set an alarm at six am,alarm_set,calendar_set
+email my appointments to reschedule,email_sendemail,calendar_query
+olly put dark colours instead of light ones in the house,iot_hue_lightchange,calendar_set
+set the living room lights to fifty percent,iot_hue_lightchange,calendar_set
+remind me about my anniversary in one day advance,calendar_set,play_music
+i <unk> pay attention,weather_query,calendar_set
+delete my meeting for two o'clock pm today,calendar_remove,calendar_set
+tell me what shops are nearby,recommendation_locations,qa_factoid
+what day of the week is the twenty third of this month,datetime_query,calendar_set
+clear out the problem,general_quirky,calendar_set
+what day of the week does the fifteenth of march fall on,datetime_query,calendar_set
+play some christian music,play_music,play_music
+what kind of weather should i expect this week,weather_query,calendar_set
+is it twentieth march today,datetime_query,qa_factoid
+set a reminder about tomorrow's meeting at nine am,calendar_set,calendar_set
+give me <unk> telephone number,email_querycontact,calendar_set
+tune to classic hits,play_radio,qa_factoid
+olly turn the lights off in the bedroom,iot_hue_lightoff,play_music
+open stock price for name,qa_stock,calendar_set
+temperature outside,weather_query,calendar_set
+tell me about the new foreign policy of trump,news_query,qa_factoid
+define <unk>,qa_definition,qa_factoid
+internet please,general_quirky,calendar_set
+tag this song with five stars,music_likeness,qa_factoid
+olly play next recording,play_podcasts,calendar_set
+make my usual,iot_coffee,calendar_query
+turn my lights down to a lower level of brightness,iot_hue_lightdim,qa_factoid
+crack a joke,general_joke,calendar_set
+what is the time now in new york,datetime_query,calendar_set
+remind me that i like that song,music_likeness,calendar_query
+make an alarm for the meeting with bob at seven today,alarm_set,calendar_set
+what movies are playing tonight,recommendation_movies,calendar_query
+twitter to destination <unk> that they run out of <unk> too fast,social_post,qa_factoid
+i wish it could give me <unk>,general_quirky,calendar_set
+is the last order is ready,takeaway_query,calendar_set
+can i know what i have to do the next saturday at six pm,calendar_set,calendar_set
+<unk> the <unk> about <unk> on <unk> in someone's budget,news_query,calendar_set
+do you have the train times for beaumont tx,transport_query,calendar_set
+playback tom clancy <unk> cell,play_audiobook,calendar_set
+find a recipe for dinner tonight,cooking_recipe,calendar_set
+what is the best way to cook pasta al <unk>,cooking_recipe,calendar_set
+add selected song,play_music,qa_factoid
+divide two hundred by four,qa_maths,play_music
+turn off sound,audio_volume_mute,play_music
+what year did this song come out,music_query,qa_factoid
+show all emails sent to me from my boss,email_query,play_music
+do i have a sales meeting today,calendar_query,qa_factoid
+what does oscillate mean,qa_definition,calendar_query
+what's happening around the world,news_query,qa_factoid
+siri please check exchange rates,qa_currency,calendar_set
+i need a recipe of <unk> <unk>,cooking_recipe,calendar_set
+will it be rainy day tomorrow,weather_query,calendar_set
+i want to reply to bob smith's email,email_sendemail,play_music
+turn on the vacuum cleaner,iot_cleaning,calendar_set
+tell me the weather this week,weather_query,calendar_set
+send a <unk> my way,general_joke,calendar_set
+how many euros can i get for one dollar,qa_currency,calendar_set
+will i need to shovel my driveway this morning,weather_query,calendar_set
+let's <unk> out the dust,iot_cleaning,qa_factoid
+mute for fifteen minutes,audio_volume_mute,calendar_set
+lower the lights please,iot_hue_lightdim,play_music
+how many <unk> does a dog have,qa_factoid,calendar_set
+how far is california from georgia,qa_factoid,calendar_query
+do i have emails from this sender,email_query,qa_factoid
+what is the quickest way to my work downtown without <unk> any traffic,transport_query,calendar_set
+tell me all the current events in my <unk>,recommendation_events,qa_factoid
+i need next week's lunch put on the calendar,calendar_set,calendar_set
+rock,play_music,calendar_set
+resume harry potter from the place i have stopped listening to last time,play_audiobook,calendar_set
+please turn lights off,iot_hue_lightoff,qa_factoid
+what's <unk> in time of india,news_query,play_music
+turn off the bathroom light please,iot_hue_lightoff,calendar_set
+what would you call this kind of music that we're listening to,music_query,calendar_set
+what are the definitions of orange,qa_definition,calendar_set
+what does the traffic look like on my usual route to work,transport_traffic,qa_factoid
+play station <unk> in the radio,play_radio,play_music
+look up,general_quirky,qa_factoid
+play music playlist,play_music,qa_factoid
+i want to hear <unk> by rush,play_music,qa_factoid
+please make me coffee without <unk>,iot_coffee,qa_factoid
+please select the first song in my itunes library,play_music,calendar_set
+show latest email,email_query,calendar_query
+hey what time is it in dallas texas,datetime_query,qa_factoid
+nice lyrics,music_likeness,qa_factoid
+tell me some business news,news_query,calendar_set
+keep me <unk> about <unk> price,news_query,calendar_set
+can you tell me the recipe to cook pav bhaji,cooking_recipe,calendar_set
+open chess app and begin game,game,calendar_set
+at what time is the italian cafe <unk> between lunch and dinner,calendar_query,play_music
+is the thanks giving event on fourteenth of this month true,calendar_query,calendar_query
+play me john's podcast,play_podcasts,qa_factoid
+post my business on twitter,social_post,calendar_query
+resume series podcast,play_podcasts,calendar_set
+what i like today,general_quirky,calendar_query
+what alarms did i set today,alarm_query,calendar_set
+answer for three times four,qa_maths,calendar_query
+erase all,lists_remove,qa_factoid
+give me to do list,calendar_query,play_music
+<unk> to <unk>,qa_definition,calendar_query
+what's the latest news on cnn,news_query,qa_factoid
+i want to eat some spicy thing,takeaway_order,calendar_set
+show all emails regarding the <unk>,email_query,qa_factoid
+play next podcast,play_podcasts,qa_factoid
+get me match highlights,news_query,calendar_set
+i need a cup of coffee,iot_coffee,calendar_set
+please resume my audiobook,play_audiobook,qa_factoid
+do not wake me up tomorrow,alarm_remove,play_music
+please open and play chess with me,play_game,qa_factoid
+play fm,play_radio,qa_factoid
+call yellow cab,transport_taxi,play_music
+will you mark that i am busy for an event tomorrow at two pm,calendar_set,calendar_set
+what's happening around town,recommendation_events,qa_factoid
+how much <unk> <unk> to invest in my company in meeting which held today at five hundred and twenty pm,calendar_query,calendar_set
+can you put on the <unk>,play_audiobook,calendar_set
+wake me up in thirty minutes,alarm_set,calendar_set
+check outlook,email_query,qa_factoid
+i want to hear the bob <unk> show,play_radio,play_music
+a quarter to two,datetime_query,qa_factoid
+please check for new emails,email_query,qa_factoid
+if you had to kill someone to save three people would you do it and if so why,general_quirky,calendar_set
+please search the internet and display the suitable youtube videos for cooking italian foods,cooking_recipe,qa_factoid
+please check all new email of income <unk> department,email_query,qa_factoid
+do not play rock metal,music_dislikeness,calendar_set
+clean the floor,cleaning,play_music
+what is <unk> <unk> birthday,qa_factoid,play_music
+read that back,play_audiobook,calendar_set
+play track one from my david bowie playlist,play_music,qa_factoid
+august fifteenth is what day of the week,datetime_query,qa_factoid
+read me my list for shopping,lists_query,qa_factoid
+turn off the <unk> light,iot_hue_lightoff,calendar_set
+add to calendar and repeat,calendar_set,calendar_set
+where on earth has the most <unk>,qa_factoid,qa_factoid
+can you make the room brighter,iot_hue_lightup,qa_factoid
+do you know how to cook risotto,cooking_recipe,qa_factoid
+play last <unk> podcast,play_podcasts,calendar_query
+put on some led zeppelin,play_music,calendar_set
+cancel dinner tonight,calendar_remove,calendar_query
+divide seventy six in two parts,qa_maths,calendar_set
+add event to calendar app,calendar_set,calendar_set
+does pink have a new baby,qa_factoid,qa_factoid
+how <unk> is the city regarding law and order,weather_query,calendar_query
+start reply,email_sendemail,qa_factoid
+please give me todays forecast for new york city,weather_query,calendar_set
+set alarm at six thirty am,alarm_set,calendar_set
+let me know about the exchange rate of rupee to dirham,qa_currency,calendar_query
+what is the exchange rate for <unk> money,qa_currency,calendar_set
+tweet mcdonald's down reseda has terrible service,social_post,calendar_set
+alexa please turn down the lights in the house,iot_hue_lightdim,calendar_set
+from dollar to euro,qa_currency,calendar_set
+set alarm for eight am,alarm_set,qa_factoid
+how long will my lunch meeting be on tuesday,calendar_query,calendar_set
+could you please play this programme for me,play_radio,qa_factoid
+what would you recommend for me to read,general_quirky,calendar_set
+<unk> products in recent market,social_post,qa_factoid
+make the lights off,iot_hue_lightoff,calendar_set
+set repeating reminder for every sunday,calendar_set,calendar_set
+notify me when g. b. p. to u. s. d. rate as i <unk>,qa_currency,calendar_set
+tell me the current time,query,calendar_set
+have i received any emails since noon,email_query,calendar_set
+remind upcoming meeting with eminem,calendar_set,qa_factoid
+who was the current prime minister of <unk>,qa_factoid,calendar_set
+can you make me a cup of coffee,iot_coffee,play_music
+alarm ten am,alarm_set,calendar_set
+i would be happy if you update me the events going on our area,recommendation_events,calendar_query
+where is a good wine bar near me,recommendation_locations,qa_factoid
+please reserve the next taxi a nine am,transport_taxi,calendar_set
+time now,datetime_query,play_music
+what's the name of the piece you are playing,music_query,play_music
+tell me billy <unk> address,qa_factoid,qa_factoid
+what is the difference between bake and <unk>,cooking_recipe,calendar_set
+i feel like jazz right now how about you,play_music,calendar_query
+did i remember to set a reminder alarm for my next doctor's appointment,alarm_query,calendar_set
+find today's <unk> articles about trump,news_query,calendar_set
+lower lights in kitchen,iot_hue_lightdim,qa_factoid
+i want to listen to a sports podcast,play_podcasts,calendar_set
+remove events from calendar,remove,calendar_set
+remind me that i have a birthday party on the thirtieth,calendar_set,qa_factoid
+remove from my calendar meeting at nine am,calendar_remove,qa_factoid
+any lighting news emails,email_query,calendar_set
+olly what time is it in this city,datetime_query,qa_factoid
+tell me the info about india's geography,qa_factoid,calendar_set
+thirteenth june is a day of election result please set it,calendar_set,calendar_set
+find some smooth jazz for me,play_music,calendar_set
+set a notification for sports game,calendar_set,calendar_set
+hi google play me playlist <unk> in my gaana application,play_music,calendar_set
+activate the vacuum cleaner and use it,iot_cleaning,qa_factoid
+play videos,general_quirky,qa_factoid
+bring up papa <unk> <unk>,play_game,calendar_set
+what is the capital of <unk>,qa_factoid,calendar_set
+do i have anything scheduled for today,calendar_query,qa_factoid
+please google location and information of mount rushmore,qa_factoid,qa_factoid
+just set me reminders about pending bill payments,calendar_set,calendar_set
+who is the prime minister of russia,qa_factoid,calendar_set
+weekly weather report,weather_query,calendar_set
+i like this song,music_likeness,calendar_set
+latest news on <unk>,news_query,calendar_set
+new york,transport_query,calendar_set
+olly where did the first <unk> settle,qa_factoid,calendar_set
+please tune nine hundred and thirty eight fm radio <unk>,play_radio,qa_factoid
+meaning of,qa_definition,calendar_set
+show me my meetings this friday,calendar_query,qa_factoid
+i need to ask you how many <unk> can dance on a <unk>,general_quirky,calendar_set
+what's for today,calendar_query,calendar_set
+list out my schedule today,calendar_query,calendar_set
+remove the list called party time,lists_remove,qa_factoid
+let me know the list,lists_query,calendar_set
+how much is lebron james worth,qa_factoid,qa_factoid
+let me know when the meeting is gonna happen,calendar_set,calendar_set
+tweet complain at comcast,social_post,qa_factoid
+<unk> the way to the place,transport_query,calendar_set
+what is the definition of the word perpetual,qa_definition,qa_factoid
+what do you think,music_likeness,qa_factoid
+will it rain tomorrow,query,calendar_set
+how long should i cook a steak to <unk> medium rare,cooking_recipe,play_music
+remind me to something in sometime,calendar_set,play_music
+contact detail of paul,email_querycontact,qa_factoid
+where is the pharmacy in <unk>,recommendation_locations,qa_factoid
+what is the capital of nigeria,qa_factoid,qa_factoid
+delete the shopping trip i have scheduled march twenty third,calendar_remove,calendar_set
+give me the list of <unk> shows going on in the city right now,recommendation_events,calendar_set
+could you turn the light off,iot_hue_lightoff,calendar_set
+what time is it in london right now,datetime_query,qa_factoid
+show weather,weather_query,calendar_set
+olly how many tornadoes have there been this month,general_quirky,qa_factoid
+olly play music from the jazz genre,play_music,calendar_query
+nobody knows,play_music,qa_factoid
+show me latest notifications,social_query,calendar_set
+add new email to my contacts <unk> dot com,email_addcontact,qa_factoid
+add the post office to my list of <unk> for saturday,lists_createoradd,calendar_set
+how much is one dollar in pounds,qa_currency,play_music
+yesterday at noontime in times square what was the protest about,news_query,qa_factoid
+please describe that object for me,qa_definition,calendar_set
+more information on this event,calendar_query,calendar_set
+turn off my wifi,iot_wemo_off,calendar_set
+what day is the fifth,datetime_query,play_music
+please read my new mails,email_query,calendar_set
+have any emails come in since four hundred today,email_query,calendar_set
+go to contacts and enter a new email address,email_sendemail,qa_factoid
+where does kate <unk> buy her kids clothes,general_quirky,calendar_set
+play the most popular elton john song,play_music,calendar_set
+add tal meeting on twenty first at seven,calendar_set,qa_factoid
+erase my appointment for march seven,calendar_remove,play_music
+alexa please send an email to mom,email_sendemail,calendar_set
+what is the weather,weather_query,calendar_query
+tweet to google costumer service my new <unk> phone stop working help please,social_post,calendar_set
+what's the rate between pesos and yen,qa_currency,calendar_set
+add a reminder for april twenty as my <unk> birthday,calendar_set,calendar_set
+please set the alarm for next friday at six thirty am,alarm_set,calendar_set
+i want to know what <unk> near me has the best price on <unk> free bread,recommendation_locations,calendar_set
+check if alarm is set for six am,alarm_query,calendar_set
+when was the bolshoi theatre <unk>,qa_factoid,calendar_query
+play the next episode of a podcast,play_podcasts,play_music
+i want <unk> lights,iot_hue_lightdim,calendar_set
+take me to <unk> st and <unk>,transport_query,calendar_set
+play songs,play_music,calendar_set
+what movies are out this week,recommendation_movies,calendar_set
+turn on the playlist i have <unk> to rock music,play_music,calendar_set
+please schedule a meeting with <unk> in <unk> at noon,calendar_set,qa_factoid
+check email for received from mom,email_query,calendar_set
+i need to know how to make <unk> peppers,cooking_recipe,calendar_query
+check celebrity where <unk>,general_quirky,play_music
+are there any <unk> of rain or snow this week,weather_query,qa_factoid
+do i have new emails,email_query,play_music
+make a new shopping list,createoradd,calendar_set
+alert me when <unk> <unk>,calendar_set,calendar_set
+is this true about this date,calendar_query,calendar_set
+please play the latest song from the album <unk>,play_music,calendar_set
+did angelina jolie leave brad pitt,qa_factoid,play_music
+latest movies in theatres,general_quirky,calendar_set
+please tweet a complaint to comcast for bad customer service,social_post,calendar_set
+run coffee maker,iot_coffee,calendar_set
+foreign exchange rates,qa_currency,qa_factoid
+reply to last received email,email_sendemail,calendar_set
+please remove the alarm that is set for weekdays at nine,alarm_remove,play_music
+anything interesting from bob's news,news_query,calendar_set
+what is your age,general_quirky,calendar_set
+turn the lights to red color,iot_hue_lightchange,calendar_query
+please begin <unk> of <unk>,play_game,calendar_set
+what's happening around me,recommendation_events,calendar_set
+set the coffee maker to on,iot_coffee,calendar_set
+how do i set my coffee machine to make coffee,iot_coffee,calendar_set
+what is your name,general_quirky,calendar_set
+do i have any alarms set for six am tomorrow,alarm_query,qa_factoid
+play netflix on my ps four,play_radio,calendar_query
+how do i get to the train station for a ticket,transport_query,calendar_set
+can you tell me about <unk> <unk>,qa_factoid,calendar_query
+how's the weather today,weather_query,calendar_set
+do add this on my calendar,calendar_set,calendar_set
+what time is it in new york now,datetime_query,play_music
+add song to running list,music_likeness,calendar_set
+are there any free events on in my area today,recommendation_events,calendar_set
+let's play hits on the radio,play_radio,calendar_set
+remove my next event,calendar_remove,qa_factoid
+olly i have to tell you about my day,general_quirky,play_music
+which teams are playing today in the <unk> league,news_query,calendar_set
+is there anything special going on nearby,recommendation_events,play_music
+do you know math,qa_maths,calendar_set
+send an email to mom to tell her wyatt's birthday party is on sunday,email_sendemail,calendar_set
+send john smith and email,email_sendemail,calendar_set
+how many hours distance is between my location and new york,datetime_convert,qa_factoid
+can you find me a furniture store near me,recommendation_locations,calendar_set
+book a cab to office for me,transport_taxi,qa_factoid
+let me know any new emails i've received,email_query,calendar_set
+delete alarm,alarm_remove,qa_factoid
+do i have anything planned,calendar_query,play_music
+california,transport_query,calendar_set
+remove the old music list,lists_remove,calendar_set
+erase all events from my calendar,calendar_remove,calendar_set
+change the lights to dim,iot_hue_lightdim,qa_factoid
+if it is from a very familiar place mark it as important,email_query,calendar_query
+what happened on the walking dead,news_query,calendar_set
+tell me about alarms,alarm_query,calendar_set
+show me the best podcast of rock songs having good rating,play_podcasts,qa_factoid
+what do i have coming up,calendar_query,calendar_set
+what are converse shoes,qa_definition,calendar_set
+biography of person,general_quirky,play_music
+what is leonardo <unk> <unk>,qa_factoid,calendar_set
+is it afternoon yet,query,calendar_set
+what new movie is jennifer <unk> working on,qa_factoid,calendar_set
+what is the highest building in the world,qa_factoid,calendar_set
+list me the stock of apple right now,qa_stock,qa_factoid
+what is the weather forecast for this week,weather_query,calendar_set
+open twitter send message,social_post,play_music
+should i open the sun <unk>,weather_query,qa_factoid
+how old is clint eastwood,qa_factoid,qa_factoid
+please tweet on <unk> service for <unk> services,social_post,calendar_set
+delete the alarm i just set,alarm_remove,calendar_set
+how is the new movie swat,recommendation_movies,calendar_query
+i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup,takeaway_order,calendar_set
+hey i am having a bad day today what can i watch to cheer me up,general_quirky,general_quirky
+post in twitter my visit to japan,social_post,calendar_set
+on monday the twentieth i need to have a conversation with greg about our weekend trip,calendar_set,calendar_set
+cancel all my appointments after three pm today and inform me the details,calendar_remove,calendar_set
+please remind me about this tomorrow,calendar_set,calendar_set
+set lunch every day at twelve thirty,calendar_set,calendar_set
+i want coffee everyday,iot_coffee,calendar_set
+search nandy,email_query,calendar_set
+calculate two <unk> by two,qa_maths,calendar_set
+please check for recent <unk> from this sender,email_query,calendar_set
+<unk> all pop song <unk>,play_music,calendar_set
+what is the news today,news_query,calendar_query
+get rid of a list,lists_remove,calendar_set
+can you put in lee's birthday on the twenty second of june,calendar_set,calendar_set
+are my contacts <unk> female or male,email_querycontact,qa_factoid
+what song is playing right now,music_query,qa_factoid
+remember this email,email_addcontact,calendar_set
+set a reminder up next month to get my oil changed,calendar_set,calendar_set
+what time is my domino's order <unk> to arrive,takeaway_query,calendar_set
+you like the song,music_likeness,play_music
+what's happening in france today,news_query,calendar_set
+when is the event going to start,calendar_query,calendar_set
+when is the birth date of taylor <unk>,qa_factoid,calendar_query
+how many eggs do i need for an omelette,cooking_recipe,play_music
+how is the traffic <unk> near central park road,transport_traffic,qa_factoid
+android,lists_query,qa_factoid
+play all songs on shuffle,play_music,calendar_set
+do you think i should go to the theater today,general_quirky,calendar_query
+i'd like to know what time it is right now,datetime_query,calendar_set
+the sun is <unk> bright will we have this weather for the rest of the day,weather_query,calendar_set
+please check new email from <unk>,email_query,calendar_set
+please book a ticket form jaipur to mumbai on tuesday,transport_ticket,qa_factoid
+olly hit me up with some exciting events in the bay area,recommendation_events,calendar_set
+set environmental news notification,news_query,qa_factoid
+raise the light,iot_hue_lightup,calendar_set
+enable my plug,iot_wemo_on,calendar_set
+how do i reach sarah,email_querycontact,calendar_set
+play next,podcasts,calendar_set
+could you please give me up to date news headlines from my newest provider,news_query,calendar_set
+how many lists do i have,lists_query,qa_factoid
+one <unk> equals how much inr,qa_currency,calendar_set
+play poker face by lady gaga,play_music,calendar_set
+what's going on in the world these days,news_query,calendar_set
+cancel the tomorrow's meeting from my calendar,calendar_remove,calendar_set
+baking times for chicken in the oven,cooking_recipe,qa_factoid
+brighter,iot_hue_lightup,calendar_query
+give me a reminder notification on tomorrow's meeting at ten am,calendar_set,play_music
+what is the menu today add some boiled vegetables also to it,cooking_recipe,calendar_set
+what is the latest update on the new york bridge proposal,news_query,calendar_set
+i will need warm <unk> in winter in morning,query,calendar_set
+do i need a jacket,weather_query,calendar_set
+send a reply to the last email,email_sendemail,calendar_set
+i need a drink,iot_coffee,qa_factoid
+what alarms did i set,alarm_query,calendar_set
+give me a reminder twenty four hours before my friday meeting with <unk>,calendar_set,calendar_set
+tell me what's happening on instagram,social_query,calendar_set
+change the light to pink color,iot_hue_lightchange,calendar_set
+i need to know if mr pizza delivers,takeaway_query,calendar_set
+play football with me,play_game,calendar_set
+write an email for john@gmail dot com,email_sendemail,qa_factoid
+what time will the soccer match be tonight,calendar_query,play_music
+which type of music it is,music_query,qa_factoid
+look for shopping mall in sacramento for women's clothes,recommendation_locations,play_music
+shall i change my car <unk> to snow <unk> soon,weather_query,qa_factoid
+can you tell me the latest news,news_query,calendar_set
+could you repeat this event,calendar_set,play_music
+play my favorite music now,play_music,calendar_set
+remove the second <unk> from the list,lists_remove,calendar_set
+what's the weather in <unk>,weather_query,calendar_set
+isn't it a <unk> song please save this for me,music_likeness,calendar_set
+play a podcast from my library,play_podcasts,calendar_set
+get me up at eight am,alarm_set,qa_factoid
+respond to the email from john doe,email_sendemail,calendar_set
+set a reminder for this,calendar_set,calendar_set
+could you please play the fm station which plays pop songs,play_radio,calendar_set
+what movies are showing in cinema today,recommendation_movies,play_music
+play my soundtrack,play_music,calendar_set
+pause the book,play_audiobook,calendar_set
+do not talk,audio_volume_mute,calendar_set
+open the radio app,play_radio,calendar_set
+were the stocks <unk> or <unk>,qa_stock,calendar_set
+are you real,general_quirky,calendar_query
+open songs from major <unk>,play_music,calendar_set
+olly i just <unk> my car,general_quirky,qa_factoid
+get rid of all events with jeff,calendar_remove,calendar_set
+describe rock sand,qa_definition,calendar_set
+what is the forecast for saturday,weather_query,qa_factoid
+play a live version of elton john,play_music,calendar_set
+technology,general_quirky,calendar_set
+when was the us got freedom,qa_factoid,calendar_query
+check time of ten thousand eight hundred and eighty seven train from <unk> station on tuesday,transport_query,calendar_set
+here is a new email address to be added to the contacts,email_sendemail,qa_factoid
+please turn socket off,iot_wemo_off,calendar_set
+location,qa_definition,qa_factoid
+does my co worker have a home phone number,email_querycontact,qa_factoid
+compose a reply to last email,email_sendemail,qa_factoid
+can you do nine plus two,qa_maths,calendar_set
+delete item from my list,lists_remove,calendar_set
+how do i book a train ticket online,transport_query,calendar_set
+add an alarm for tomorrow morning at six am,alarm_set,calendar_set
+what's euro u. s. d. right now,qa_currency,calendar_set
+list,lists_query,calendar_set
+tweet mobile complaint to samsung,social_post,calendar_query
+please <unk> my read messages,email_query,calendar_set
+look up the number of people living in miami florida,qa_factoid,play_music
+do you know recipe for risotto,cooking_recipe,calendar_set
+turn on the radio and play channel one hundred and six point nine,play_radio,play_music
+give me my facebook update every three hours,social_query,calendar_set
+when is the next train leaving for austin,transport_query,calendar_query
+what time does the zach brown concert on june third begin,calendar_query,calendar_set
+open spotify and open workout,play_radio,play_music
+what did <unk> post today,news_query,calendar_set
+please skip to the next podcast episode,play_podcasts,calendar_set
+open contacts and call john smith,email_querycontact,calendar_set
+what is the largest active volcano on earth,qa_factoid,qa_factoid
+when is my next appointment with dr smith,calendar_query,calendar_set
+can i carry out with this restaurant,takeaway_query,qa_factoid
+email mom and ask how the weather is there,email_sendemail,qa_factoid
+please find the radio station currently playing howard stern,play_radio,qa_factoid
+remove that item,lists_remove,calendar_query
+seven years,play_music,calendar_set
+cancel business meeting on wednesday,calendar_remove,calendar_set
+book a train ticket for one one way for this tuesday at nine am,transport_ticket,calendar_set
+how much is amazon stock,qa_stock,qa_factoid
+olly there's a good band playing tonight at nine at jazz bar i want to go,calendar_set,calendar_set
+show me reviews of my nearest location food <unk>,recommendation_locations,calendar_set
+what are the breaking news,news_query,qa_factoid
+delete the next event today,calendar_remove,calendar_query
+can you let amazon know that this new phone case is junk,social_post,calendar_query
+could you please play the song of michael jackson,play_music,calendar_set
+what is a mango,qa_definition,qa_factoid
+please send the email to jeff,email_sendemail,calendar_set
+get rid of the events on the nineteenth from my calendar,calendar_remove,calendar_set
+please turn the lights off,iot_hue_lightoff,calendar_set
+play only my list,play_music,calendar_set
+i want to send a tweet to united <unk> i'm angry you lost my <unk>,social_post,calendar_set
+i like this song please save,music_likeness,qa_factoid
+tell me the time in this time zone,datetime_query,qa_factoid
+set notification for news about the dakota pipeline,news_query,play_music
+send a complaint tweet,social_post,calendar_set
+should i wear sandals or shoes with <unk>,weather_query,qa_factoid
+resume joes book from where i left off last time,play_audiobook,qa_factoid
+remove list item,lists_remove,qa_factoid
+check emails from john,email_query,calendar_set
+open inbox to check unread mails,email_query,calendar_set
+best paid jobs in digital marketing in my area,general_quirky,qa_factoid
+how old is <unk> <unk> <unk>,qa_factoid,qa_factoid
+what is currently breaking news,news_query,calendar_query
+olly i need directions to madison st,transport_query,calendar_set
+this is the best band ever,music_likeness,qa_factoid
+what did i tell susan in my last email,email_query,calendar_set
+put on,play_radio,calendar_set
+give me the train time,transport_query,qa_factoid
+what day is new year's eve this year,datetime_query,play_music
+remind me every monday to take out the trash,calendar_set,calendar_set
+shut down the sound,audio_volume_mute,qa_factoid
+i'm <unk> with this pasta please help me,social_post,calendar_set
+i want you to play the podcast,play_podcasts,qa_factoid
+need to check my list,lists_query,qa_factoid
+unmute after,audio_volume_up,play_music
+why <unk> adam <unk> funny,qa_factoid,calendar_query
+what's going on around here this weekend,recommendation_events,qa_factoid
+play game with me,play_game,calendar_set
+can you create a list for me,lists_createoradd,calendar_query
+add a <unk> watch to the shopping list,lists_createoradd,qa_factoid
+give me the latest updates,news_query,qa_factoid
+how is the weather likely to be this week,weather_query,qa_factoid
+give me the latest political headlines across the world,news_query,qa_factoid
+the song in background is cool,music_likeness,calendar_set
+turn off the <unk> room,iot_hue_lightoff,play_music
+delete all events in calendar,calendar_remove,qa_factoid
+tweet a <unk> face about mcdonalds,social_post,calendar_query
+could you order sushi for tonight dinner,takeaway_order,calendar_set
+what do you think about future,general_quirky,play_music
+brighten of lights in living room,iot_hue_lightup,play_music
+turn off the socket,wemo_off,qa_factoid
+what time is it in central time zone,datetime_query,play_music
+can you set my coffee machine to make me coffee at seven am,iot_coffee,calendar_set
+tell me when i should leave for a scheduled event so that i am on time,calendar_set,play_music
+what reminders do i have scheduled before noon tomorrow,calendar_query,calendar_set
+has tom emailed me about <unk>,email_query,qa_factoid
+tune in to eight hundred and ninety seven fm,radio,calendar_query
+i want tickets to the sold out concert on saturday night,general_quirky,calendar_set
+play cnn radio,play_radio,calendar_set
+let me listen the latest news program on radio,play_radio,calendar_set
+what's the latest trump controversy,news_query,calendar_set
+play my playlist starting from the <unk>,play_music,calendar_set
+tell me something i can do to help my <unk> today,general_quirky,qa_factoid
+what is today's forecast for berlin,weather_query,calendar_set
+display the seven day forecast for this week,weather_query,calendar_set
+play the twilight book,play_audiobook,calendar_set
+what is on my to do list today,lists_query,calendar_set
+can you give me a recipe for <unk> chicken <unk> soup,cooking_recipe,qa_factoid
+play all by playlist,play_music,calendar_set
+change light color,iot_hue_lightchange,calendar_set
+what is a work phone number of <unk>,email_querycontact,qa_factoid
+describe <unk>,qa_definition,calendar_set
+please reduce the speaker volume,audio_volume_down,qa_factoid
+say a good joke for me right now,general_joke,qa_factoid
+what does obama do in his day to day life,general_quirky,calendar_set
+send me an alert and hour before my next appointment,calendar_set,calendar_set
+get me the local train <unk> to destination <unk>,transport_query,play_music
+play biography of jackie <unk>,play_audiobook,calendar_set
+will i need an umbrella today,weather_query,play_music
+set list,lists_createoradd,calendar_query
+what's a movie in theaters that doesn't <unk>,recommendation_movies,calendar_query
+<unk> use of lights,iot_hue_lightoff,calendar_set
+open bad religion folder,play_music,calendar_set
+move to the next episode of <unk>,play_podcasts,calendar_set
+lower the overhead lights,iot_hue_lightdim,calendar_set
+book a taxi to go to the movies at one,transport_taxi,calendar_set
+i want to order chinese takeout,takeaway_order,calendar_query
+what is the traffic like right now,transport_traffic,qa_factoid
+play,play_radio,calendar_set
+i want to order a pizza from <unk> pizza,takeaway_order,qa_factoid
+remind me to go to dinner with dave on friday at five pm,calendar_set,calendar_set
+what days do i have booked,calendar_query,play_music
+where is volume setting,audio_volume_other,calendar_set
+turn program on xmtune,play_radio,calendar_set
+find geographic details of this place,qa_factoid,calendar_query
+has my calendar been updated in the last ten minutes,calendar_query,calendar_set
+raise the volume of the current music,audio_volume_up,calendar_set
+remove the guest list i created last week,lists_remove,calendar_set
+currency exchange,qa_currency,calendar_set
+whats on your list right now,lists_query,calendar_set
+erase that from my calendar,calendar_remove,calendar_set
+i want to play fifa seventeen,play_game,calendar_set
+hows mysore climate today,weather_query,calendar_set
+post this video to facebook,social_post,play_music
+add jane's birthday party for tomorrow two pm at one hundred and twenty three main on my calendar,calendar_set,calendar_set
+give me all available lists,lists_query,qa_factoid
+delete it,calendar_remove,qa_factoid
+what is the current day month and year,datetime_query,qa_factoid
+is it cold outside,weather_query,calendar_set
+explain quantum physics to me in <unk> i understand,general_quirky,calendar_set
+please play folk music,play_music,calendar_set
+can you delete the dentist appointment,calendar_remove,calendar_set
+refresh my inbox and inform me about new emails,email_query,calendar_set
+hey olly what time is it,datetime_query,calendar_query
+what is the temperature in indianapolis indiana,qa_factoid,qa_factoid
+can you create a sugar free diet for me and create a shopping list for the ingredients,general_quirky,calendar_query
+delete list for groceries,lists_remove,calendar_query
+please read my facebook feed,social_query,calendar_set
+is the city <unk> or <unk> to live,weather_query,play_music
+what information should i know for my meetings today,calendar_query,calendar_query
+do i have any new emails from <unk>,email_query,calendar_set
+i <unk> pay attention,weather_query,qa_factoid
+i want it to be able to tell me statistics about things it's done for me like how often i've <unk> out this month,general_quirky,qa_factoid
+can you open my itunes,play_music,qa_factoid
+what jacket should i wear,weather_query,calendar_set
+can you make dinner for me,general_quirky,calendar_set
+remind me to do something then,calendar_set,calendar_set
+please go to the next episode of the podcast,play_podcasts,qa_factoid
+what is the current weather,query,qa_factoid
+song title,music_query,calendar_set
+instructions to make a meal,cooking_recipe,calendar_set
+please clean my calendar,calendar_remove,calendar_set
+new alarm for six am,alarm_set,calendar_set
+turn off the lights in the bathroom,iot_hue_lightoff,calendar_set
+is today st <unk> day,calendar_query,calendar_set
+seven hundred,datetime_convert,calendar_set
+create a list that is available,lists_createoradd,qa_factoid
+play <unk> by passion pit,play_music,calendar_set
+what is on my playlist,lists_query,qa_factoid
+schedule a one hour appointment for saturday,calendar_set,calendar_set
+are there any events going on downtown tonight,recommendation_events,qa_factoid
+how long should i boil the egg,cooking_recipe,play_music
+what's in the news,news_query,play_music
+is there takeaway at papa john's,takeaway_query,calendar_set
+alexa i'dl like to hear any classical except for bach or schubert,play_music,qa_factoid
+within the past three months how many meetings did i have with mr richards,calendar_query,qa_factoid
+clear the list,lists_remove,play_music
+reduce volume,audio_volume_down,calendar_set
+radio channels,play_radio,qa_factoid
+hey olly i like music by <unk> <unk>,music_likeness,calendar_set
+what movies has emma <unk> <unk> in,qa_factoid,calendar_set
+play lady by <unk> <unk>,play_music,calendar_set
+remind me when i am at the library to get a new library card,calendar_set,qa_factoid
+once a new topic on politics comes up alert me,news_query,qa_factoid
+how much is the average house,qa_factoid,calendar_set
+play the next show on podcast,play_podcasts,calendar_set
+how long should i boil an egg,cooking_recipe,qa_factoid
+get rid of my current alarms,alarm_remove,play_music
+tell me about jaipur,qa_factoid,calendar_set
+please book me a taxi uber,transport_taxi,calendar_set
+what kind of music do you think i like,music_query,calendar_set
+clear out the shopping list,lists_remove,qa_factoid
+i want to hear a station that plays r. n. b.,play_radio,calendar_set
+what information do i have on reminders,calendar_query,qa_factoid
+should i bring a jacket with me tonight,weather_query,calendar_set
+rate five,music_likeness,calendar_set
+what is the temperature,weather_query,qa_factoid
+look up movies near me,recommendation_movies,calendar_set
+set alarm of only monday morning six am,alarm_set,calendar_set
+what's a good joke,general_joke,calendar_set
+reply to dad write i will be late,email_sendemail,calendar_set
+order pizza for delivery,takeaway_order,calendar_set
+please remove remainder,calendar_remove,calendar_set
+birthday wishes,social_post,play_music
+how much is the us dollar versus the pound,qa_currency,qa_factoid
+train ticket please,transport_ticket,calendar_set
+olly read my lists to me,lists_query,calendar_query
+<unk> daughter baby <unk>,calendar_set,calendar_set
+turn off my alarm,alarm_remove,calendar_set
+play <unk> by <unk> and <unk>,play_music,calendar_set
+brighten the lights,iot_hue_lightup,calendar_query
+what is the current weather condition in my place,weather_query,play_music
+play bob dylan playlist,play_music,calendar_set
+play rap music,play_music,calendar_set
+please find out the share price of microsoft in nasdaq,qa_stock,calendar_set
+please play my nineties rap hits,play_music,calendar_set
+i need to go to <unk> at five am on sunday by train,transport_ticket,calendar_set
+olly tell me about activities in my area this weekend,recommendation_events,play_music
+what is the date next wednesday,datetime_query,qa_factoid
+i want to send an email to my family do you help me,email_sendemail,calendar_set
+google what are the <unk> things <unk> need,general_quirky,calendar_set
+read list of new emails,email_query,qa_factoid
+let's cook meatballs together,cooking_recipe,calendar_set
+traffic report,transport_traffic,play_music
+what ingredient can be used instead of <unk>,cooking_recipe,calendar_set
+what are the bbc <unk> predictions for the upcoming us elections,news_query,qa_factoid
+turn on the robot vacuum cleaner,iot_cleaning,calendar_set
+who sings the song about a long black train,music_query,play_music
+is it going to rain at one pm today,weather_query,calendar_set
+remove my task list,lists_remove,calendar_set
+start the coffee machine at three,iot_coffee,calendar_query
+thanksgiving turkey cooking procedure in five sentences is what,cooking_recipe,calendar_set
+please add sugar to my grocery list,lists_createoradd,calendar_set
+i went to the store,general_quirky,calendar_set
+play ella <unk> get happy,play_music,calendar_set
+make it brighter in here,iot_hue_lightup,qa_factoid
+do you have a funny joke for me,general_joke,calendar_set
+can you make me some coffee olly,iot_coffee,qa_factoid
+who sings the song that i am listening to right now,music_query,qa_factoid
+how about you,general_quirky,play_music
+olly tweet apple that the iphone doesn't work,social_post,qa_factoid
+start audio playback of twilight again,play_audiobook,calendar_set
+check any mail from amazon,email_query,calendar_set
+i need an email to be sent to <unk> about my service issues,email_sendemail,calendar_set
+how much is the dollar worth compared to the euro,qa_currency,calendar_set
+pink is all we need,iot_hue_lightchange,calendar_set
+what is the price of starbuck's stock,qa_stock,play_music
+turn lights off,iot_hue_lightoff,calendar_set
+what's on my todo list,lists_query,calendar_query
+how many saturdays are in march,datetime_query,play_music
+please turn up the screen brightness all the way,iot_hue_lightup,calendar_set
+set the alarm off,alarm_remove,calendar_set
+should we expect rain this afternoon,weather_query,qa_factoid
+what is the difference between <unk> and <unk> calendar,qa_factoid,qa_factoid
+how much is the euro worth versus us dollar,qa_currency,calendar_set
+i would like to hear jazz music,play_music,qa_factoid
+whats the weather like right now in new york,weather_query,qa_factoid
+play one more time,play_music,calendar_set
+is this the least or most important moment in history ever,general_quirky,qa_factoid
+i need you to tweet a complaint,social_post,play_music
+how is my order,takeaway_query,calendar_query
+tell me the train arrival time to new york,transport_query,calendar_set
+i want to set an alarm when i'm driving home tomorrow to remember to stop at the store and get food,alarm_set,calendar_query
+play the song major tom by david bowie,play_music,calendar_set
+start the radio now,play_radio,calendar_set
+tell me a place that has snow now,general_quirky,qa_factoid
+can you raise the lights for me please,iot_hue_lightup,qa_factoid
+what are meeting scheduled for today,calendar_query,calendar_set
+recipes that can be cooked in an hour,cooking_recipe,calendar_query
+what ingredients do i need to bake a large cake,cooking_recipe,qa_factoid
+play my summer jams playlist,play_music,calendar_set
+what is the us dollar and euro exchange rate,qa_currency,qa_factoid
+describe a <unk>,qa_definition,calendar_set
+check new email,email_query,calendar_set
+please find a contact number of <unk> and tell me,email_querycontact,calendar_set
+i need a good <unk> can you play me sad rock songs,play_music,qa_factoid
+what are the top stories on cnn,news_query,qa_factoid
+create email to <unk>,email_sendemail,calendar_query
+what is the dollar price in inr,qa_currency,qa_factoid
+what is <unk> <unk> next movie,qa_factoid,calendar_query
+move on to the next podcast episode,play_podcasts,calendar_set
+where i went today,general_quirky,calendar_set
+did you place the reminder about the meeting for tomorrow,calendar_query,calendar_set
+resume my audio book from karl <unk>,play_audiobook,calendar_set
+can you list out my meetings today,calendar_query,calendar_set
+start bbc radio,play_radio,calendar_set
+what <unk> hair <unk> does donald trump use,qa_factoid,calendar_set
+remind me to pick up linda at five in the evening on seventh,calendar_set,calendar_set
+what's on your mind,general_quirky,calendar_set
+hello my item which i bought from some one has gone out of order,social_post,calendar_set
+respond to email,email_sendemail,calendar_query
+has the dollar rate increased,qa_currency,play_music
+if it's <unk> in <unk> what time is it in <unk>,datetime_convert,calendar_set
+check gmail,query,qa_factoid
+make the light in here <unk>,iot_hue_lightchange,calendar_set
+my choice to play an audio from first,play_audiobook,qa_factoid
+what time should i go for a <unk>,weather_query,qa_factoid
+what do i need to make lamb <unk>,cooking_recipe,play_music
+what are some theme <unk> nearby,recommendation_events,calendar_query
+what was george <unk> first november <unk>,qa_factoid,calendar_set
+change the music mode to rock,music_settings,qa_factoid
+info on lisa ann please,qa_factoid,calendar_set
+open audio book history of rome,play_audiobook,qa_factoid
+do i have any unread emails,email_query,calendar_query
+emails in the last ten minutes,email_query,calendar_set
+show me some current events,news_query,qa_factoid
+tell me the recipe of,cooking_recipe,calendar_query
+please check email contain job <unk>,email_query,qa_factoid
+hoover the hallway,iot_cleaning,play_music
+<unk> <unk>,general_joke,qa_factoid
+start the robot roomba,iot_cleaning,play_music
+what do you do with my data and information,general_quirky,play_music
+wake me up at five am this week,alarm_set,qa_factoid
+whats the exchange rates between usa and china,qa_currency,qa_factoid
+keep reading the audiobook to me,play_audiobook,qa_factoid
+please send mom and dad an email asking how they are,email_sendemail,play_music
+is it going to rain later,weather_query,calendar_query
+shut off lights,iot_hue_lightoff,calendar_set
+please dim the lights,iot_hue_lightdim,calendar_query
+add this email address to my contacts and send an email to,email_addcontact,calendar_set
+set my alarm for seven am,alarm_set,calendar_set
+next button,play_podcasts,qa_factoid
+find the ways of travel for the same,transport_query,qa_factoid
+fix alarm,alarm_set,calendar_set
+please give me the winning lottery numbers for this weekend,general_quirky,calendar_query
+his <unk> is <unk> <unk>,general_quirky,calendar_set
+meetings from twenty to twenty five june,calendar_query,calendar_set
+call the nearest thai restaurant with delivery,takeaway_order,play_music
+purchase ticket to new york city on train,transport_ticket,calendar_set
+don't make any sounds,audio_volume_mute,qa_factoid
+give me the details on purchase order,lists_query,calendar_set
+adjust the lights to a lower setting please,iot_hue_lightdim,calendar_set
+what is the exchange rate between us and <unk>,qa_currency,calendar_set
+play only all music released between the year one thousand nine hundred and ninety and two thousand,play_music,calendar_set
+save event for five pm to six pm on march eighteenth,calendar_set,calendar_set
+turn the <unk> off from speaker,audio_volume_mute,qa_factoid
+just play nine hundred and thirty seven fm,play_radio,play_music
+how much is a train ticket to chicago,transport_query,calendar_set
+play the latest songs by <unk>,play_music,play_music
+what is the plan today,calendar_query,calendar_set
+please scan the am dial on the radio right now,play_radio,qa_factoid
+book a train ticket weekend of the twenty sixth phoenix to los angeles,transport_ticket,play_music
+what is the best oven temperature to roast potatoes,cooking_recipe,calendar_set
+can you tell me what flabbergasted means,qa_definition,calendar_set
+does <unk> have a new podcast,play_podcasts,qa_factoid
+do i need a sweater today,weather_query,qa_factoid
+turn off the alarm,alarm_remove,calendar_set
+olly play poker with me,play_game,calendar_set
+i hate this song,music_dislikeness,calendar_set
+is there a food festival in the area,recommendation_events,qa_factoid
+is traffic light,transport_traffic,qa_factoid
+what does situation mean,qa_definition,calendar_set
+show pending reminders,calendar_query,qa_factoid
+do i have an appointment today,calendar_query,calendar_set
+low <unk> condition,weather_query,calendar_set
+how cold is it outside today,weather_query,calendar_set
+lights at percent,iot_hue_lightchange,calendar_query
+will it be nice outside this week,weather_query,calendar_set
+give the stock price details of <unk>,qa_stock,play_music
+open media play jingle bells,play_music,calendar_set
+please add dinner with mary to my calendar on saturday,calendar_set,play_music
+i need to set reminder on fifteenth march,calendar_set,calendar_set
+check for all the movie theater prices and <unk> for a newly released movie in my location,recommendation_movies,calendar_set
+what alarms i have set,alarm_query,play_music
+please look up local restaurants that are open now,recommendation_locations,calendar_query
+add lowes hardware to my contact emails located in cleveland ohio,email_addcontact,qa_factoid
+order one pizza from pizza hut,takeaway_order,calendar_set
+reply to email,email_sendemail,calendar_query
+turn the light off in the living room,iot_hue_lightoff,calendar_query
+how far is canada from my current location,qa_factoid,calendar_set
+tell me about economy and gdp about india versus china,general_quirky,qa_factoid
+send email to <unk> dot com,email_sendemail,calendar_set
+play next reason podcast,play_podcasts,qa_factoid
+where do most celebrities <unk> out,qa_factoid,qa_factoid
+have i received new emails in the last ten minutes,email_query,qa_factoid
+play the radio please,play_radio,qa_factoid
+please find out of charley's steakhouse delivers,takeaway_query,qa_factoid
+please put on my favorite rap music playlist,play_music,calendar_set
+tell me when it is five pm,alarm_set,calendar_set
+has anyone <unk> on my status,social_query,calendar_query
+give me up to date on sports news,news_query,calendar_set
+send email to boss saying i will be late,email_sendemail,calendar_set
+tell me the local events,recommendation_events,calendar_set
+how to make taco,cooking_recipe,qa_factoid
+africa info,qa_factoid,qa_factoid
+where is the prime <unk>,qa_factoid,calendar_set
+turn off my first alarm,alarm_remove,qa_factoid
+remind me to water my <unk> every tuesday thursday and saturday,calendar_set,calendar_query
+what is the current state of the <unk> into trump's ties with russia,news_query,qa_factoid
+how do i get to the mall,transport_query,calendar_set
+tell me how are the results of <unk> elections in delhi going to come out,news_query,calendar_set
+let me know up and down in stock price of this company stock,qa_stock,calendar_set
+turn off the <unk>,iot_hue_lightoff,calendar_set
+please modify my calendar with this event,calendar_set,calendar_set
+could you please confirm if <unk> does takeaway,takeaway_query,calendar_set
+power off,iot_wemo_off,calendar_set
+play any pop fm channel,play_radio,qa_factoid
+play next episode of harry potter by <unk> <unk> <unk>,play_audiobook,qa_factoid
+add <unk> to my shopping list,createoradd,calendar_set
+book a ticket to ny by train,transport_ticket,calendar_set
+tell me if i have new emails,email_query,calendar_query
+are you happy,general_quirky,calendar_set
+is there anything i should be reminded about,calendar_query,calendar_query
+play some good song from my play list,play_music,calendar_set
+play the song <unk> by katy perry,play_music,calendar_set
+set lights brightness higher,iot_hue_lightup,calendar_set
+post a new status on facebook saying that i am enjoying the nice weather,social_post,calendar_set
+olly do i have an alarm set for tomorrow,alarm_query,play_music
+music,music,qa_factoid
+i want you to go to hot one hundred and five on the radio,play_radio,play_music
+i would like it to help analyze ideas,general_quirky,qa_factoid
+weather at the moment,weather_query,calendar_set
+what can i do in berlin,recommendation_events,qa_factoid
+play music now please,play_music,qa_factoid
+shuffle songs by coldplay,play_music,calendar_query
+send an alert before meeting,calendar_set,qa_factoid
+play song <unk> high,play_music,qa_factoid
+in my calendar delete all of my golf events for the current month,calendar_remove,play_music
+should i bring an umbrella today,weather_query,qa_factoid
+can you please book train tickets for two for this friday,transport_ticket,calendar_set
+find a train ticket to philadelphia,transport_ticket,calendar_set
+what is the music playing right now,music_query,calendar_query
+schedule a meeting with matt at eleven am on thursday,calendar_set,qa_factoid
+show future events,calendar_query,calendar_set
+i hate how long the traffic jams get,general_quirky,qa_factoid
+play the next one,play_podcasts,calendar_query
+who is the contact that last called me,email_querycontact,qa_factoid
+uber me to the airport,transport_taxi,calendar_set
+convert current time from g. m. t. to est,datetime_convert,calendar_set
+can you please make a coffee,iot_coffee,qa_factoid
+start vacuum cleaner,iot_cleaning,calendar_set
+<unk>,general_quirky,calendar_set
+is there any rain in the forecast for the next week,weather_query,calendar_set
+find route,qa_factoid,qa_factoid
+driving time to los angeles,transport_query,qa_factoid
+are there any alarms going off today,alarm_query,calendar_set
+how much money did bill <unk> make,qa_factoid,play_music
+please activate my coffee pot for me,iot_coffee,qa_factoid
+send an email to my boss,email_sendemail,calendar_set
+open up and play music from my jogging playlist,play_music,play_music
+do i have appointments today,calendar_query,calendar_set
+show me direction to my home,transport_query,calendar_set
+i need to find a gift what stores are within a one mile radius,recommendation_locations,qa_factoid
+get me new email,email_query,calendar_set
+please load new email for <unk> and send message now,email_sendemail,calendar_set
+olly let's hear <unk> one hundred and three point five,play_radio,calendar_set
+i want to play the song again,play_music,qa_factoid
+i want sweet potato pie from a local <unk>,lists_createoradd,calendar_query
+what is the weather going to be like today in tucson,weather_query,qa_factoid
+i'm so happy today i got tickets for the concert,general_quirky,calendar_set
+make march eighteen a repeating appointment for <unk> birthday,calendar_set,calendar_set
+i had food as soon as i got up,general_quirky,calendar_set
+please be quiet for another hour,audio_volume_mute,qa_factoid
+set an alarm for nine am,alarm_set,calendar_set
+are there any special events near me this weekend,recommendation_events,qa_factoid
+remind me about,set,calendar_set
+i have a meeting at noon today,calendar_set,qa_factoid
+is soft cheese better than hard,cooking_recipe,calendar_set
+remove <unk> from my shopping list,lists_remove,calendar_set
+olly where do the rocky mountains start,qa_factoid,calendar_set
+please set a meeting to <unk> <unk> with <unk> on the next available meeting day,calendar_set,calendar_set
+news articles on a particular subject,news_query,calendar_set
+info of the upcoming events,recommendation_events,calendar_set
+send a replay email,email_sendemail,calendar_query
+i want to remove apples from list,lists_remove,calendar_query
+please tell me what is the time in <unk>,datetime_query,calendar_set
+open temperature,weather_query,calendar_set
+remove my dinner event for monday,calendar_remove,play_music
+what time are the hockey games tonight,general_quirky,calendar_set
+i want to see all set alarms,alarm_query,qa_factoid
+when does <unk> city mall open,recommendation_events,calendar_set
+what degree is it outside,weather_query,calendar_set
+i want to know about the brexit,news_query,calendar_set
+when was last <unk> award winning movie,qa_factoid,qa_factoid
+title,music_query,calendar_set
+radio please,play_radio,qa_factoid
+present time in new york,datetime_query,qa_factoid
+what day does my birthday fall on this year june twenty seventh,datetime_query,calendar_query
+what's the easiest way to cook pasta,cooking_recipe,calendar_set
+play me last year's hits,play_music,calendar_set
+i want the music to be saved can you do it for me,music_likeness,calendar_set
+i didn't get the product on time send a tweet to jcpenney,social_post,calendar_set
+put the lights off now,iot_hue_lightoff,qa_factoid
+keep playing <unk> garden,play_audiobook,calendar_set
+don't speak for an hour,audio_volume_mute,qa_factoid
+what is the chance of <unk> in todays weather,weather_query,qa_factoid
+do i have any remainder about birthday party,calendar_query,calendar_set
+how many lists do i have in contacts,lists_query,play_music
+how have <unk> shares done last week,qa_stock,play_music
+show me nearby musical events,recommendation_events,calendar_set
+i need to get a ticket via train to orlando from hwood,transport_ticket,qa_factoid
+remind me at,calendar_set,calendar_set
+<unk> the clients that will attend the meeting,calendar_set,calendar_set
+when will my chinese food be delivered,takeaway_query,qa_factoid
+i need to get up at ten tomorrow,alarm_set,qa_factoid
+who is doing facebook live right now,social_query,qa_factoid
+please create a new list for me,lists_createoradd,qa_factoid
+remind me of my meeting on,calendar_set,calendar_set
+turn my morning alarm on,alarm_set,calendar_set
+stock price,qa_stock,calendar_query
+is there anything new in my mailbox,email_query,calendar_set
+start a gossip,general_quirky,calendar_set
+enter song <unk>,music_likeness,qa_factoid
+refer local current events,recommendation_events,calendar_set
+give me news on president trump,news_query,calendar_set
+play a random song from my playlist,play_music,calendar_set
+will there be a world war four,general_quirky,calendar_set
+play <unk> music,play_music,calendar_set
+check mom's number,email_querycontact,calendar_set
+put this event in a repeating pattern on my calendar,calendar_set,play_music
+block one hour from ten tomorrow morning,calendar_set,calendar_set
+what is the weather like right now,weather_query,qa_factoid
+opinion save,music_likeness,qa_factoid
+love,quirky,calendar_set
+replace,lists_remove,play_music
+add this song for the next playing song,play_music,qa_factoid
+how large is alaska,qa_factoid,play_music
+explain how is usa better than other countries,general_quirky,calendar_set
+forward a complaint to <unk> for network related issues,social_post,qa_factoid
+tell me about india location,qa_factoid,calendar_set
+jump to next podcast,play_podcasts,calendar_set
+what lists are in my <unk>,lists_query,calendar_set
+what time does the first train depart from chicago,transport_query,calendar_set
+tweet a complaint for the online bookstore,social_post,qa_factoid
+remind me about my meeting an hour before it <unk>,calendar_set,calendar_set
+let's play you'll be the <unk> and never change position,play_game,qa_factoid
+clean my house,iot_cleaning,calendar_set
+set a reminder every day at noon to take medication,calendar_set,calendar_set
+switch off the lights,iot_hue_lightoff,calendar_set
+show <unk> of rihanna,qa_factoid,calendar_set
+play papa <unk> <unk>,play_game,calendar_set
+make the bedroom lights red and the hall lights normal color please,iot_hue_lightchange,calendar_set
+make the coffee,iot_coffee,qa_factoid
+do i need to do anything today,calendar_query,calendar_set
+how tall is <unk> <unk>,qa_factoid,play_music
+tell me if i have any unread new emails,email_query,calendar_set
+send mail to <unk> for office opening time table,email_sendemail,calendar_set
+describe a sloth,qa_definition,calendar_set
+i want two burgers and one coke order it fast,takeaway_order,calendar_set
+respond to my <unk> email with the word that i will be in at four in the evening,email_sendemail,calendar_set
+have i need to take a sun <unk>,weather_query,calendar_set
+color of light should be <unk> bright,iot_hue_lightdim,qa_factoid
+tell me everything you know about <unk>,qa_factoid,calendar_set
+play my playlist party songs,play_music,calendar_set
+can you turn up the lights,iot_hue_lightup,qa_factoid
+remove this list from the others,lists_remove,play_music
+<unk> my <unk> with arijit singh,play_music,calendar_set
+go back to previous episode of podcast,play_podcasts,qa_factoid
+take that off there,lists_remove,qa_factoid
+start a pot of coffee please,iot_coffee,calendar_set
+give me all my lists,lists_query,calendar_set
+off all type of active devices,iot_wemo_off,calendar_set
+disable alarm for three pm,alarm_remove,calendar_set
+please lower music volume,audio_volume_down,calendar_query
+wipe everything on my calendar,calendar_remove,calendar_set
+please add list of things to buy for party,lists_createoradd,calendar_set
+could you please create a pandora channel for adele,music_settings,calendar_set
+new message to newmail@gmail dot com,email_sendemail,qa_factoid
+i would like to reply to sarah's email,email_sendemail,play_music
+change the lights in my home to green,iot_hue_lightchange,calendar_set
+what lists do i have <unk>,lists_query,calendar_set
+today i saw a bulldog,general_quirky,calendar_set
+add <unk> bhaji in menu card,lists_createoradd,qa_factoid
+change the lights in the living room to green and red,iot_hue_lightchange,calendar_set
+i would like to hear some good funny jokes,general_joke,calendar_set
+can you remind me to order the turkey three weeks before thanksgiving,calendar_set,calendar_set
+set alarm six am,alarm_set,calendar_set
+check for me new emails received from <unk>,email_query,calendar_set
+what does my facebook feed look like,social_query,qa_factoid
+prepare the order as soon as possible,takeaway_query,play_music
+please put event into my calendar and mark it as a repeating event,calendar_set,calendar_set
+what is going on today from two four pm,calendar_query,qa_factoid
+could you please play the song from the artist madonna,play_music,play_music
+siri open twitter tweet <unk> sucks,social_post,calendar_set
+show me my latest social media activity,social_query,calendar_set
+how the to do list for today,lists_query,qa_factoid
+what is two hundred divided by ten,qa_maths,calendar_set
+tell me about mary s.,email_querycontact,calendar_set
+make a list about selena gomez concert schedule,lists_createoradd,calendar_set
+are there any good pizza places around here,recommendation_locations,calendar_set
+alexa reply to the mail with the following content hello you,email_sendemail,calendar_set
+create an alarm for today at ten am,alarm_set,calendar_set
+play a <unk> song in my playlist,play_music,calendar_query
+erase my calendar,calendar_remove,calendar_set
+economic affairs,news_query,calendar_set
+any new email from john,email_query,calendar_set
+will the weather be less than ten degree in paris,weather_query,qa_factoid
+move to the next song in the list,music_settings,qa_factoid
+features of google <unk>,general_quirky,calendar_set
+what was the weather for the week,weather_query,calendar_set
+delete upcoming event,calendar_remove,qa_factoid
+when does the next train travelling the city leave here,transport_query,calendar_set
+go to the podcast and play the next episode in friends,play_podcasts,calendar_set
+can you let <unk> know i'm never using them again,social_post,qa_factoid
+what day of the week was december four one thousand nine hundred and eighty two,datetime_query,calendar_set
+where is the nearest walmart,recommendation_locations,qa_factoid
+make the radio turn on now,play_radio,qa_factoid
+what is the current temperature outside,weather_query,play_music
+put dark colours instead of light ones in the house,iot_hue_lightchange,calendar_set
+where is <unk>,qa_factoid,calendar_query
+find an interesting podcast about last <unk> price <unk>,play_podcasts,play_music
+what are the events next week,calendar_query,play_music
+please turn off the lights in patio,iot_hue_lightoff,qa_factoid
+play for me the game harry potter and the <unk> of secrets,play_game,calendar_set
+list everything left on my query,lists_query,calendar_set
+have any emails <unk> in the last fifteen minutes,email_query,calendar_set
+olly what is the capital of california,qa_factoid,calendar_set
+recommend a movie playing in my area,recommendation_movies,qa_factoid
+add a reminder to my calendar every year on this date,calendar_set,calendar_set
+what does <unk> mean,qa_definition,calendar_set
+start the vacuum,iot_cleaning,calendar_query
+how is rice <unk>,cooking_recipe,qa_factoid
+what was the subject of the last email from mom,email_query,calendar_set
+elections in up,news_query,calendar_set
+what are the news stories on the cnn website,news_query,calendar_set
+meeting reminders from three to five,calendar_query,calendar_set
+i got promoted today it feels so good,general_quirky,play_music
+i want to listen to be more chill by <unk> <unk>,play_audiobook,calendar_set
+how many tornadoes have there been this month,general_quirky,calendar_set
+please purchase a train ticket for this weekend,transport_ticket,calendar_set
+what's up olly,general_greet,qa_factoid
+book an uber to pick me up now,transport_taxi,play_music
+search my calendar for my next event and notify me before it <unk>,calendar_set,calendar_set
+tell me how to make a poor boy sandwich,cooking_recipe,calendar_set
+silence speakers,audio_volume_mute,play_music
+news from cnn,news_query,calendar_set
+make me a cup of coffee with <unk> <unk> <unk> cream,iot_coffee,calendar_set
+why does <unk> <unk> look so young,general_quirky,calendar_set
+information of recent events,calendar_query,calendar_set
+do i have any incoming emails,email_query,calendar_set
+please remove my list of favorite albums,lists_remove,calendar_set
+start the <unk> playlist,play_music,calendar_query
+i want the smart socket off now,iot_wemo_off,calendar_set
+do i have a meeting this afternoon,calendar_query,calendar_set
+send email to new contact,email_sendemail,qa_factoid
+can you tell me about the traffic,transport_traffic,calendar_set
+turn off eight am alarm,alarm_remove,calendar_query
+make coffee at three,iot_coffee,calendar_set
+what day of the week is first april,datetime_query,calendar_set
+play an fm,play_radio,calendar_set
+please tell me what alarms are on,alarm_query,qa_factoid
+what shops are near me,recommendation_locations,calendar_set
+do you have a boyfriend,general_quirky,calendar_set
+convert eight am manila time to new york time,datetime_convert,play_music
+turn on a country music station,play_radio,play_music
+detail for stock price,qa_stock,calendar_set
+play <unk> <unk> anything,play_music,calendar_set
+remind me tomorrow at ten am about the meeting,calendar_set,play_music
+please email my team,email_sendemail,calendar_query
+send complaint via tweet to j <unk>,social_post,calendar_set
+add meeting reminder for sunday with my <unk> in law,calendar_set,calendar_set
+order a train ticket to boston,transport_ticket,calendar_query
+give me some good sounds,play_music,calendar_set
+i want to hear a joke,general_joke,qa_factoid
+what is the commute time to the theater,transport_query,calendar_query
+top model car,general_quirky,calendar_set
+i need a meeting to be schedule with this person,calendar_set,calendar_set
+how's the weather like in new jersey,weather_query,play_music
+which bar has the most affordable drinks near sixth street,recommendation_locations,calendar_set
+turn off kitchen light,iot_hue_lightoff,qa_factoid
+remind me to take my medicine at nine am,calendar_set,calendar_set
+please check my reminders,calendar_query,qa_factoid
+ticket for delhi,transport_ticket,calendar_set
+turn off the bathroom lights,hue_lightoff,play_music
+what's the latest news from <unk>,news_query,calendar_query
+post complaint about service a,social_post,qa_factoid
+please clean my shopping list,lists_remove,qa_factoid
+any new email since last time,email_query,calendar_set
+reply an email to jason that i will not come tonight,email_sendemail,calendar_set
+what was elvis <unk> birthday,qa_factoid,qa_factoid
+check mail for anything from <unk>,email_query,calendar_set
+what is the time in beijing,datetime_query,calendar_set
+has jane doe emailed me,email_query,calendar_set
+delete all events from my calendar,calendar_remove,calendar_set
+math,general_quirky,qa_factoid
+what is the weather for this week,weather_query,calendar_query
+search for local shops,recommendation_locations,qa_factoid
+play song next,play_music,play_music
+tell me current time in los <unk>,datetime_query,qa_factoid
+set event date in calendar with others,calendar_set,qa_factoid
+book a train ticket from baltimore maryland to new york new york,transport_ticket,play_music
+what will the weather be tomorrow,weather_query,calendar_set
+set reminder for noon to get lunch with boss,calendar_set,play_music
+any mail from amazon today,email_query,calendar_set
+give me the definition for the word pontificate,qa_definition,calendar_query
+take out available <unk>,takeaway_query,play_music
+what is my schedule for the day,calendar_query,calendar_set
+where was steve jobs born,qa_factoid,calendar_set
+what's <unk> email,email_querycontact,calendar_set
+send an email to jake to tell him thank you,email_sendemail,calendar_set
+please book a train ticket from london to manchester,transport_ticket,play_music
+play the beatles,play_music,calendar_set
+can you put on love playlist,play_music,calendar_set
+quiet mode on until i am home from work,audio_volume_mute,qa_factoid
+what color is a <unk> <unk>,qa_factoid,qa_factoid
+web <unk>,general_quirky,play_music
+run the vacuum,iot_cleaning,calendar_set
+i want you to make alert in the evening about upcoming meeting,calendar_set,calendar_set
+remove tuesday alarm of nine am,alarm_remove,calendar_set
+new meeting add bill and <unk> as <unk>,calendar_set,calendar_query
+check if <unk> alarm is set,alarm_query,calendar_set
+start music app and play a song for me,play_music,calendar_set
+put on the vacuum on now and clean the living room,iot_cleaning,qa_factoid
+what's the sum of the two numbers four and six,qa_maths,calendar_set
+play for me the music by the beatles,play_music,play_music
+add a new email for julie smith,email_sendemail,play_music
+how to get <unk>,transport_query,qa_factoid
+olly tell me a joke,joke,calendar_set
+my <unk> is to listen to some country music,play_music,calendar_set
+it's time for junk food,takeaway_order,qa_factoid
+switch off the <unk> bedroom,iot_hue_lightoff,calendar_set
+<unk> to diet,general_quirky,qa_factoid
+do you recommend an <unk>,weather_query,calendar_set
+play country radio,play_radio,play_music
+alexa start from my last session of joes book,play_audiobook,calendar_set
+list all the lists on this device,lists_query,calendar_set
+show me my events,calendar_query,play_music
+disable smart socket,iot_wemo_off,calendar_set
+start coffee at six am,iot_coffee,qa_factoid
+find a taxi to book,transport_taxi,calendar_set
+what's in my inbox since we last <unk>,email_query,qa_factoid
+decrease brightness of lights,iot_hue_lightdim,qa_factoid
+i need a recipe that is from ingredients on my shopping list,cooking_recipe,qa_factoid
+what is the news from that newsource,news_query,qa_factoid
+song info,music_query,play_music
+how big is the <unk>,qa_factoid,calendar_query
+what is the interview time from yesterday's email,email_query,calendar_set
+resume the playback of a child called it,play_audiobook,calendar_set
+i have a function at washington tomorrow remind it,calendar_set,calendar_set
+erase all the events,calendar_remove,calendar_set
+what is going on in the world today,news_query,qa_factoid
+if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book,qa_maths,calendar_set
+set a reminder about todays <unk> meeting at four,calendar_set,calendar_set
+does the weather call for rain saturday,weather_query,calendar_set
+show me events in sacramento,recommendation_events,calendar_set
+set a repeating reminder alarm for the facebook event i have to attend on seventh april,alarm_set,calendar_set
+cut the songs in this <unk>,music_settings,calendar_set
+power off please,iot_wemo_off,calendar_set
+what reminders do i still have,calendar_query,calendar_query
+write a reply to my mother's email,email_sendemail,qa_factoid
+please play only music of pop <unk>,play_music,play_music
+play britney spears live concert series,play_radio,qa_factoid
+hey olly turn off the light please,iot_hue_lightoff,calendar_set
+what is four plus five,qa_maths,play_music
+please set lunch meeting at twelve pm for every wednesday in march,calendar_set,play_music
+delete my list,lists_remove,calendar_query
+reply to the mail with the following content hello you,email_sendemail,calendar_set
+what does my schedule look like today,calendar_query,calendar_set
+please check my emails for me,email_query,calendar_set
+post a tweet as follows very bad follow up by abc company not <unk> in my account,social_post,calendar_set
+my day was full of work olly,general_quirky,calendar_set
+set up a notification about tomorrow's meeting at ten,calendar_set,calendar_set
+start playing ringcast,play_podcasts,qa_factoid
+anything interesting going on in the bay area,recommendation_events,qa_factoid
+pandora,play_music,calendar_set
+what size is a <unk> <unk>,qa_factoid,qa_factoid
+how many plays has patrick stewart been in,qa_factoid,calendar_query
+why are <unk> big,qa_factoid,calendar_set
+will i need to carry around a <unk> today,weather_query,qa_factoid
+two by two is,qa_maths,play_music
+what is the weather in beijing,weather_query,calendar_set
+for every odd <unk> sunday set a reminder for,calendar_set,qa_factoid
+hey olly chance the current light settings,iot_hue_lightchange,qa_factoid
+notify me when <unk> emails me,email_query,play_music
+delete all lists,lists_remove,calendar_set
+what's two plus two,qa_maths,calendar_query
+when is easter in the year two thousand and eighteen,datetime_query,calendar_set
+did i get an email from paul,email_query,calendar_set
+i like the songs of <unk> please play it,music_likeness,calendar_set
+is calendar event true,calendar_query,qa_factoid
+brightness ninety percent,iot_hue_lightchange,calendar_set
+please show today meeting with clients,calendar_query,calendar_set
+alexa remove dinner with mike from my calendar,calendar_remove,qa_factoid
+does the nearby dominos have delivery,takeaway_query,calendar_set
+play all music by billy joel,play_music,qa_factoid
+make the house lights amber at six pm,iot_hue_lightchange,calendar_set
+can you change the volume at,audio_volume_other,play_music
+post my latest entry to twitter @nsa,social_post,qa_factoid
+play best friends by <unk>,play_music,play_music
+is my reminder alarm set for dance class,alarm_query,qa_factoid
+delete the first item on the list,lists_remove,play_music
+i want to see the next podcast available,play_podcasts,calendar_set
+open <unk> post picture name,social_post,qa_factoid
+check for new email,email_query,qa_factoid
+can you remind my next meeting with my boss one hour before it will happen,calendar_set,calendar_set
+show me the events in my work calendar for next week,calendar_set,calendar_set
+please add my pay days,calendar_set,play_music
+erase all the events in the calendar,calendar_remove,calendar_query
+do you know the weather,weather_query,qa_factoid
+what does celebrity do,qa_factoid,qa_factoid
+tell me when i have an event,calendar_set,calendar_set
+who wrote this song,music_query,calendar_set
+what time is it in austin,datetime_query,calendar_query
+what is <unk> current price,qa_stock,calendar_set
+current time in,datetime_query,play_music
+can you tell me the time it is,datetime_query,calendar_set
+can you lower the lights,iot_hue_lightdim,calendar_set
+remove pencil from <unk>,lists_remove,calendar_set
+what is the traffic like on my commute home at five,transport_query,calendar_set
+has john sent me an email,email_query,calendar_query
+go backward thirty seconds,play_podcasts,calendar_set
+play music from my rock list,play_music,calendar_query
+do you know jessica <unk> phone number,qa_factoid,calendar_set
+call for takeout,takeaway_order,qa_factoid
+s,play_music,play_music
+today i had a meeting with george,general_quirky,qa_factoid
+what is the fastest way to get to starbucks,transport_query,calendar_set
+get hourly notification on sports news,news_query,qa_factoid
+current song playing what is it,music_query,calendar_set
+where did mahatma gandhi born,qa_factoid,calendar_set
+are sunglasses a good choice for today,weather_query,calendar_set
+what region is miami located,qa_factoid,calendar_query
+what do you know about <unk> in edinburgh next year,general_quirky,qa_factoid
+play for me music by the beatles,play_music,qa_factoid
+if it's five am in berlin what time is it here,datetime_convert,qa_factoid
+i had a bad day,general_quirky,calendar_query
+how old is <unk> <unk>,qa_factoid,calendar_query
+check the dish price and all,takeaway_query,calendar_set
+i want an alarm for three today,alarm_set,calendar_set
+remove meeting reminder for tuesday,calendar_remove,calendar_query
+notify me about the event in my calendar,calendar_set,calendar_set
+how many phone numbers do i have for <unk>,email_querycontact,calendar_set
+can you please play <unk> <unk>,play_music,calendar_set
+find the recipe for <unk> in <unk> application,cooking_recipe,calendar_set
+are there any <unk> fairs happening in this area,recommendation_events,calendar_set
+important house information,lists_query,calendar_set
+what time is my appointment on april fourth,calendar_query,qa_factoid
+what's happening in the news,news_query,play_music
+start the next episode,play_podcasts,calendar_set
+ok google where does <unk> <unk> live,qa_factoid,calendar_query
+what is a <unk> <unk> filter and would i want a <unk> one or a <unk> one also which would be better in style between the <unk> on one and the square ones,qa_factoid,calendar_set
+what times are my alarms set for,alarm_query,calendar_set
+read back my grocery list to me,lists_query,calendar_set
+what was the last movie will smith was in,qa_factoid,calendar_set
+recommend a movie for me,recommendation_movies,calendar_set
+what store is having sales tomorrow,general_quirky,qa_factoid
+tell me my options for a train to los angles next wednesday or thursday,transport_query,calendar_set
+by get <unk>,weather_query,play_music
+olly tweet a message to <unk> and tell them my service is bad,social_post,qa_factoid
+hey send a meeting invite to mr ross for this friday's meeting and block my calendar for friday afternoon,calendar_set,qa_factoid
+drive the car and bring my friends over,general_quirky,calendar_set
+reply thank you to john,email_sendemail,qa_factoid
+what is the time in las vegas,datetime_query,calendar_query
+create reminder for laundry at eight pm,calendar_set,calendar_set
+check stock price for <unk> donuts,qa_stock,qa_factoid
+no lights in the kitchen,iot_hue_lightoff,calendar_set
+set a reminder to notify me one hour before lunch meeting,calendar_set,calendar_set
+play the second song from <unk> song,play_music,calendar_set
+set an alarm for tomorrow at six in the morning,alarm_set,qa_factoid
+olly what events are happening in pondichery this weekend,recommendation_events,calendar_set
+play jingle bells,play_music,play_music
+how cold is today,weather_query,calendar_query
+read my grocery list,lists_query,play_music
+do i have any new email from joe,email_query,qa_factoid
+can you tell me a little about yourself,general_quirky,calendar_set
+remove from calendar my medical appointment for today,calendar_remove,calendar_query
+give the list of theaters in the vicinity,recommendation_locations,calendar_set
+today is what date,datetime_query,calendar_set
+please check my emails and notify me if <unk> any new email,email_query,play_music
+tell me about the latest environmental news,news_query,calendar_set
+recipe please,cooking_recipe,calendar_set
+find <unk> free <unk> near me,recommendation_locations,calendar_set
+please add oranges to my grocery list,lists_createoradd,calendar_set
+i do not know how to answer this question you left a word or two out,general_quirky,play_music
+give me news from cnn,news_query,calendar_query
+how is the traffic at the moment,transport_traffic,calendar_query
+show me recent emails,email_query,play_music
+email form for <unk> vp,email_sendemail,calendar_set
+please play <unk> it off by taylor <unk>,play_music,calendar_set
+i'd like you to turn turn on the tv,iot_wemo_on,calendar_set
+will i need an umbrella this week,weather_query,qa_factoid
+what's the news for today,news_query,calendar_set
+speaker volume increase,audio_volume_up,calendar_set
+give me the schedule for today's events,calendar_query,calendar_query
+did charlotte responded,email_query,play_music
+should i wear raincoat before getting out,weather_query,calendar_query
+tell me that list i wrote two days ago,lists_query,play_music
+will trump visit russia <unk> soon,news_query,calendar_set
+let's hear some indie rock okay,play_music,qa_factoid
+front page news articles please,news_query,calendar_set
+show me the available colours of lights,iot_hue_lightchange,play_music
+change the lights to a different hue,iot_hue_lightchange,calendar_set
+any cultural events in california,recommendation_events,calendar_set
+make event,calendar_set,qa_factoid
+what is the latest story from fox news,news_query,calendar_set
+i want to listen radio,play_radio,calendar_set
+remind me about this,calendar_set,play_music
+locate the email to <unk> eagle and put it into my contact list,email_addcontact,calendar_set
+how long do i cook <unk>,cooking_recipe,calendar_query
+set the <unk> audio setting,audio_volume_other,calendar_set
+it must be taste,cooking_recipe,qa_factoid
+birthday,calendar_set,calendar_set
+hey has john sent me any email lately,email_query,calendar_set
+book me a cab going to location,transport_taxi,calendar_set
+ask trivia questions,general_quirky,play_music
+do they deliver home,query,qa_factoid
+more stock price,qa_stock,qa_factoid
+thirty minute reminder on meeting for tuesday,calendar_set,calendar_set
+what time is it in a city,datetime_query,qa_factoid
+olly what's hot social media topics,social_query,calendar_set
+set a new alarm for that time,alarm_set,calendar_set
+send a reply to mike with the answer four hundred and thirty from his email he sent this morning,email_sendemail,calendar_set
+remember how i fell about this song,music_likeness,calendar_set
+show me the answer for this problem two hundred and forty six plus six hundred and fifty four,qa_maths,calendar_set
+turn off <unk>,iot_wemo_off,calendar_set
+olly change the color of the lights,iot_hue_lightchange,qa_factoid
+please skip two songs,music_settings,calendar_set
+don't let me forget to buy a gift for my sister,calendar_set,play_music
+<unk> or heavy weather,weather_query,calendar_set
+turn the smart plug on,iot_wemo_on,calendar_set
+play techno music,play_music,qa_factoid
+schedule a meeting event in my calendar,calendar_set,calendar_set
+show me my meeting for the next month,calendar_query,qa_factoid
+i want a coffee,iot_coffee,calendar_query
+where <unk> lives,email_querycontact,calendar_set
+directions please,transport_query,calendar_set
+play me a random song from my playlist,play_music,calendar_query
+send a reply if it is very important,email_query,calendar_set
+do i have any new emails in the last hour,email_query,calendar_set
+how much is a round trip train ticket to go to new york,transport_query,calendar_set
+how's the weather in the capital city,weather_query,calendar_set
+<unk> system,recommendation_movies,qa_factoid
+should i wear a jacket,weather_query,qa_factoid
+are there any upcoming concerts by,music_likeness,calendar_query
+read some more of the <unk> <unk> book for me,play_audiobook,calendar_set
+what's the next event at the library,recommendation_events,calendar_query
+pull up <unk> email and write that i will let her know,email_sendemail,calendar_set
+my day was <unk> hard,general_quirky,calendar_query
+what time have you set the alarm,alarm_query,qa_factoid
+trump,general_quirky,calendar_set
+report weather for <unk>,weather_query,calendar_set
+invite people to the calendar event,calendar_set,calendar_set
+show me the train schedules to the <unk> opera house,transport_query,calendar_set
+i will require full <unk> jacket if it is too stormy in evening,weather_query,play_music
+what times do my alarms go off,alarm_query,qa_factoid
+facebook current stock rate,qa_stock,qa_factoid
+<unk> about food processing,cooking_recipe,calendar_set
+ok google what is a president,qa_definition,calendar_set
+who <unk> me yesterday,email_query,qa_factoid
+can i get takeout from pf changs,takeaway_query,calendar_set
+please show me any articles related to weather in the morning news,news_query,calendar_set
+make the lights pink,iot_hue_lightchange,qa_factoid
+what music is currently playing on,music_query,qa_factoid
+set notifications on the current weather <unk> in america,calendar_set,calendar_set
+what is the time difference between here and japan,datetime_convert,qa_factoid
+wanna netflix and chill,general_quirky,qa_factoid
+show meetings,calendar_set,calendar_set
+olly turn the light off in the living room,iot_hue_lightoff,calendar_set
+tell me about my alarms,alarm_query,qa_factoid
+what is the exchange rates in this region,qa_currency,calendar_query
+what events are happening soon,recommendation_events,calendar_set
+are <unk> any new emails for me today,email_query,play_music
+could you please play the classical music for me,play_music,calendar_set
+don't talk until i ask you to,audio_volume_mute,calendar_set
+how do i get home from here,transport_query,qa_factoid
+what date is it today,datetime_query,calendar_set
+delete events from calendar,calendar_remove,qa_factoid
+did i set an alarm to have <unk> in the noon,alarm_query,calendar_set
+hey olly please tell me the name of this song that is currently playing,music_query,calendar_set
+alexa play song over the rainbow,play_music,qa_factoid
+give me more light,iot_hue_lightup,qa_factoid
+read me new post on my feed,social_query,calendar_query
+please tell me what is the definition of cylinder,qa_definition,qa_factoid
+where is the car,audio_volume_up,qa_factoid
+start a vacuum cleaner,iot_cleaning,calendar_set
+what is the population of new york,qa_factoid,qa_factoid
+what is the event agenda,calendar_query,qa_factoid
+what time is it,datetime_query,play_music
+can we go to sun,general_quirky,qa_factoid
+what are the latest crime statistics for me area,news_query,play_music
+list items on my work list,lists_query,play_music
+show me the latest emails from amazon,email_query,play_music
+bbc world headlines,news_query,qa_factoid
+please play shape of you by ed sheeran,play_music,qa_factoid
+make a coffee,iot_coffee,calendar_query
+i need to add a new email to my contacts,email_sendemail,calendar_query
+can you please advise,general_quirky,play_music
+what's the best way to <unk>,transport_query,calendar_set
+quiet,audio_volume_mute,qa_factoid
+can i wear my sandals today,weather_query,calendar_set
+identify song,music_query,calendar_set
+directions to disney land,transport_query,calendar_set
+tell me current events between yesterday and this morning,calendar_query,calendar_set
+tomorrow's temperature is to be hot yes or no,weather_query,qa_factoid
+show me my alarms i have set,alarm_query,calendar_set
+remind me what i am doing on sunday afternoon,calendar_set,calendar_set
+any alarms currently listed,alarm_query,qa_factoid
+search to find current local time and time zone,datetime_query,calendar_set
+report weather for thirty three thousand seven hundred and seventy four,weather_query,calendar_set
+list exchange rate information for the day for u. s. d. to <unk>,qa_currency,play_music
+hey send email to john,email_sendemail,play_music
+what is the weather in <unk>,weather_query,play_music
+what is the top <unk> in google today,general_quirky,qa_factoid
+delete all dates,calendar_remove,play_music
+can you book a train ticket,transport_ticket,calendar_set
+will you mark that i have a meeting with tom at three tomorrow,calendar_set,calendar_set
+where is the kiss concert,calendar_query,qa_factoid
+will it rain now,weather_query,calendar_set
+it would be great if can give you law <unk>,general_quirky,play_music
+what movies are going around me,recommendation_movies,calendar_set
+make it red in here,iot_hue_lightchange,qa_factoid
+describe about the computer hard <unk>,qa_definition,calendar_set
+coffee make now,iot_coffee,play_music
+date today,datetime_query,play_music
+add broccoli to my grocery list,lists_createoradd,play_music
+did i receive any new email from robert,email_query,calendar_set
+what are my next three events,calendar_query,calendar_set
+compose a new email to ray,email_sendemail,calendar_set
+tell interesting news,news_query,calendar_set
+how long will it take to get to the airport,transport_query,calendar_set
+what is the definition of forensic,qa_definition,play_music
+how much is one plus one,qa_maths,qa_factoid
+change volume settings in the negative alexa,audio_volume_other,qa_factoid
+olly play i can't feel my face,play_music,qa_factoid
+do i have any notifications from social media,calendar_query,calendar_set
+where is the public library,transport_query,qa_factoid
+save this song to playlist,music_likeness,play_music
+show me news about trump,news_query,calendar_set
+set my coffee machine,iot_coffee,calendar_set
+how can you get <unk>,general_quirky,qa_factoid
+is there any post from my friend mike in facebook,social_query,calendar_query
+rahul marriage reminder,calendar_query,calendar_set
+did anyone like my photo i just posted,social_query,qa_factoid
+send a twitter complaint,social_post,calendar_set
+what do we have on new york <unk> front page,news_query,calendar_query
+please add complaint about the service in tweet to olive garden,social_post,qa_factoid
+cut down the volume,audio_volume_down,calendar_set
+i never want to hear that song again,music_dislikeness,play_music
+opinion pb,music_likeness,calendar_set
+what's the latest news,news_query,calendar_set
+what is the size of the united states,qa_factoid,calendar_set
+how is it outside,weather_query,qa_factoid
+play radio with <unk> songs,play_radio,calendar_set
+do i have a grocery list ready,lists_query,calendar_set
+fast,audio_volume_up,calendar_set
+i'd like to set a date for this week,calendar_set,qa_factoid
+remind me to start <unk> this afternoon at five,calendar_set,qa_factoid
+is there any special in <unk>,news_query,calendar_set
+email my boss that i will be late today because of an <unk> and <unk> to him for <unk> the meeting,email_sendemail,calendar_set
+find the latest disney podcast,play_podcasts,qa_factoid
+play racing,play_game,calendar_set
+show me painting exhibition in bay area,recommendation_events,calendar_set
+i want it to remember my preferences and recommend me things based on them when i ask,general_quirky,calendar_set
+hey what time is it in london now,datetime_query,calendar_set
+how much is one american dollars worth in england,qa_currency,calendar_set
+i want more light,iot_hue_lightup,qa_factoid
+turn the plug off,iot_wemo_off,calendar_set
+delete my to <unk> for this week,lists_remove,calendar_set
+show me a video on cooking fried chicken,cooking_recipe,calendar_set
+play <unk> pong,play_game,calendar_set
+can you please order some food for me,takeaway_order,qa_factoid
+can they do delivery,query,calendar_set
+how has your day been today,general_quirky,play_music
+meet with joe tomorrow at three,calendar_set,calendar_set
+create a notification reminder for meeting tomorrow,calendar_set,qa_factoid
+start my playlist on i heart radio,play_radio,calendar_set
+do not make any noise until morning alarm,audio_volume_mute,calendar_set
+what is the <unk> of x,qa_maths,calendar_set
+find me a chocolate cake recipe,cooking_recipe,calendar_set
+write and send email to my boss,email_sendemail,calendar_set
+plan for tomorrow,calendar_query,qa_factoid
+play podcast for the philadelphia <unk> content,play_podcasts,qa_factoid
+what news has happened on cnn today,news_query,calendar_set
+what <unk> is a <unk> <unk> <unk>,qa_definition,qa_factoid
+tweet that there was an <unk> in the chocolate <unk>,social_post,calendar_set
+can you tell me the contact information of jo,email_querycontact,calendar_set
+is fongs <unk> in only,takeaway_query,calendar_query
+when can we eat,takeaway_query,calendar_set
+what is the date for next tuesday,datetime_query,calendar_query
+update to current time,datetime_query,qa_factoid
+quiet time,audio_volume_mute,calendar_set
+please remind me to go to the post office,calendar_set,calendar_set
+check my emails for something from name,email_query,play_music
+can you loop the playlist <unk>,play_music,play_music
+send an email to jerry ask what time will he be home tonight,email_sendemail,calendar_set
+add event for meeting with james,calendar_set,qa_factoid
+alexa i've got dollars for the month how much can i spend every day this month,qa_maths,qa_factoid
+remove milk from my grocery list,lists_remove,calendar_set
+i want to make this week's shopping list,lists_createoradd,calendar_set
+tweet a message to <unk> that i am still waiting for my delivery,social_post,calendar_set
+why is the earth round,general_quirky,calendar_set
+please start the coffee pot,iot_coffee,calendar_set
+how tall is brad pitt,qa_factoid,calendar_set
+add a meeting at the office with brian for three pm on tuesday,calendar_set,calendar_set
+give me a cooking <unk>,cooking_recipe,calendar_set
+can you check the facts on this <unk>,calendar_query,qa_factoid
+what day does easter fall on,datetime_query,play_music
+set reminder to <unk> the documents on tuesday morning,calendar_set,calendar_set
+get me the latest stock price for <unk>,news_query,calendar_set
+play <unk> <unk> latest podcast,play_podcasts,play_music
+how we can get credit,email_sendemail,calendar_set
+how are you feeling today,general_quirky,calendar_query
+what was the last email from work,email_query,calendar_set
+turn off the lights in the kitchen,iot_hue_lightoff,calendar_query
+who is the music director of this song,music_query,calendar_set
+start playing,play_music,qa_factoid
+how old is emma <unk> newest boyfriend,qa_factoid,calendar_set
+new pop music,play_music,calendar_set
+send an email to <unk>,email_sendemail,calendar_set
+someone play the radio,play_radio,calendar_set
+change my light color to blue and please turn off the kitchen light,iot_hue_lightchange,calendar_set
+fm ninety three point five radio songs,play_radio,calendar_set
+i want to do laundry at eight pm create reminder,calendar_set,calendar_set
+what time are the trains going to chennai leaving,transport_query,qa_factoid
+turn on new smart socket,iot_wemo_on,calendar_set
+hey olly do you like my girlfriend,general_quirky,play_music
+are you aware this joke,general_joke,calendar_set
+alexa turn the lights down to seven,iot_hue_lightdim,calendar_set
+send an email to this contact,email_sendemail,calendar_set
+only nine hundred and ninety nine fm is to be played on the radio,play_radio,calendar_set
+remind me of <unk> birthday twenty four hours in advance,calendar_set,play_music
+can you turn up your volume,audio_volume_up,calendar_set
+olly i'm looking for a bar do you know a good one,recommendation_locations,calendar_set
+dictate email,email_sendemail,calendar_set
+tell me about trump,news_query,qa_factoid
+are you smart,general_quirky,calendar_set
+hey robot give me a list of ingredients for <unk> <unk>,cooking_recipe,calendar_set
+vacation spots,general_quirky,calendar_set
+open twitter type my complaint and post to <unk> service,social_post,qa_factoid
+why are we here,general_quirky,calendar_set
+what is new news for today,news_query,calendar_set
+book a first class ticket in the next train to miami,transport_ticket,qa_factoid
+buy me a ticket to boston,transport_ticket,calendar_query
+hey what's a book,qa_definition,calendar_set
+please play the podcast for me,play_podcasts,calendar_set
+play coldplay album,play_music,play_music
+find me a joke related to baseball,general_joke,calendar_set
+who is the singer of song,music_query,calendar_set
+email naty for her birthday,email_sendemail,qa_factoid
+play the romantic songs,play_music,calendar_set
+please read new emails,email_query,play_music
+olly if any new news comes out about the <unk> can you let me know right away,news_query,qa_factoid
+play my spotify dance play list,play_music,calendar_query
+delete all the events in my calendar,calendar_remove,calendar_query
+can you show me a list of all my recent <unk>,general_quirky,calendar_set
+can you please stop <unk>,audio_volume_mute,calendar_set
+where can i get a <unk> of <unk> and some to go mexican food,takeaway_query,calendar_set
+can you send the email to the new email id,email_sendemail,play_music
+is there a <unk> event tomorrow in chicago,recommendation_events,qa_factoid
+tell me the percentage of the chance of rain in seattle washington for today,weather_query,calendar_query
+what is the exchange rate with in one british pound,qa_currency,calendar_set
+remind me on fifth march of every year to arrange wedding anniversary <unk>,calendar_set,calendar_set
+find me the cheapest train ticket to spain,transport_ticket,calendar_query
+please say to the email that sent me george i need the money now it's urgent,email_sendemail,qa_factoid
+explanation of the song,music_query,calendar_set
+more lights please,iot_hue_lightup,calendar_set
+do you know the eta of my order,takeaway_query,qa_factoid
+i need to know the time right now what is it,datetime_query,calendar_set
+topic,email_query,calendar_set
+can you make this event repetitive,calendar_set,qa_factoid
+remove event from my list,lists_remove,calendar_set
+what's the capital of <unk>,qa_factoid,calendar_set
+please set a reminder in my calendar for my meeting on march twenty five,calendar_set,calendar_set
+can you contact samsung and say my washer is on fire,social_post,qa_factoid
+please add <unk> to my calendar,calendar_set,calendar_set
+what are lady <unk> most popular songs,music_query,qa_factoid
+mute please,audio_volume_mute,calendar_set
+is there any news about the <unk>,news_query,qa_factoid
+<unk>,general_quirky,qa_factoid
+ok google tweet what a <unk> the <unk> is at the gas station,social_post,calendar_set
+olly i feel like <unk> play me some rock n roll,play_music,calendar_set
+don't play this song again,music_dislikeness,calendar_set
+will you remind me of the dentist appointment i have in two hours,calendar_set,qa_factoid
+start radio channel eight hundred and eighty nine,play_radio,qa_factoid
+will it rain this week,query,play_music
+set an event for friday,calendar_set,qa_factoid
+what is the stock price of hdfc,qa_stock,calendar_set
+delete item from list,lists_remove,play_music
+how old is <unk> <unk>,qa_factoid,calendar_set
+has ben got in touch,email_query,calendar_set
+how long will it take to travel to japan from south korea,qa_factoid,qa_factoid
+check my new emails and tell me what are they about,email_query,qa_factoid
+open meeting time,calendar_query,qa_factoid
+what should i watch today,recommendation_movies,qa_factoid
+hey olly cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar,calendar_set,calendar_set
+give me the latest news,news_query,calendar_set
+will it snow tomorrow at noon,weather_query,calendar_set
+what is the definition of <unk>,qa_definition,calendar_set
+when is the next time it will rain,weather_query,calendar_set
+how much is the us dollar worth in canada,qa_currency,qa_factoid
+store opinion on song,music_likeness,calendar_set
+have i received any emails with tracking numbers,email_query,qa_factoid
+get <unk> cheap <unk> ready to play next,play_music,calendar_set
+is it ten,datetime_query,play_music
+dollar rate at present,qa_currency,calendar_set
+does kim kardashian wear converse,qa_factoid,calendar_set
+post i am happy to facebook,social_post,calendar_set
+turn off room lights,iot_hue_lightoff,calendar_set
+read me the latest new york times headlines,news_query,play_music
+lower the lights,iot_hue_lightdim,calendar_set
+is there an alarm for ten am,alarm_query,calendar_set
+tell me the temperature,weather_query,qa_factoid
+tell me where steve jobs was born,qa_factoid,calendar_set
+do i have any new emails from my contact <unk>,email_query,calendar_set
+olly what day of the week is halloween,datetime_query,calendar_set
+jay's phone number,email_querycontact,play_music
+keep me up to date with the world news,news_query,calendar_set
+hot topic,news_query,qa_factoid
+show me recipes,cooking_recipe,calendar_set
+play the sweet song on radio,play_radio,calendar_set
+start radio play,play_radio,calendar_set
+how would you describe a ball,qa_definition,qa_factoid
+what year did george clooney start <unk>,qa_factoid,play_music
+please compose a new email to coworker,email_sendemail,calendar_query
+i dont want any alarms,alarm_remove,qa_factoid
+remove set alarm,alarm_remove,qa_factoid
+how many reminders do i have,calendar_query,qa_factoid
+decrease twenty percent,audio_volume_down,calendar_set
+what movie should i watch today,recommendation_movies,calendar_set
+set meeting with <unk> on saturday four pm,calendar_set,calendar_set
+please place my new email address to the contact,email_addcontact,qa_factoid
+info on this week weather,weather_query,play_music
+compose email,email_sendemail,qa_factoid
+what is one plus one,qa_maths,calendar_set
+i want some jazz music to play,play_music,calendar_set
+olly play a good track from my favourite jazz player,play_music,qa_factoid
+whats ten percent off forty dollars,qa_maths,play_music
+<unk> search,transport_query,calendar_set
+delete my dinner tomorrow,calendar_remove,calendar_set
+where is the venue in which the marriage of tom is going to take place,calendar_query,qa_factoid
+please remove that event,calendar_remove,play_music
+search for more songs from the band,play_music,calendar_set
+schedule taxi pickup for monday at noon,transport_taxi,qa_factoid
+is there a traffic jam on my route,transport_traffic,play_music
+hi you there,general_quirky,qa_factoid
+please see what you wrote for this question,general_quirky,calendar_set
+tweet <unk> about the <unk> of their store,social_post,calendar_set
+delete from playlist my old english songs list,lists_remove,qa_factoid
+yes i like to save opinion on song playing and which player support that song,music_likeness,play_music
+olly change the lighting to blue,iot_hue_lightchange,calendar_set
+please raise the light i am not comfortable at this,iot_hue_lightup,calendar_set
+do i have anything set for the fourth of july this year,calendar_query,calendar_set
+what are my plans for the month of may,calendar_query,play_music
+hey cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar,calendar_set,calendar_set
+respond to my email from bob letting them know i'll see them tomorrow,email_sendemail,calendar_set
+how many square miles is the average country on earth,qa_factoid,qa_factoid
+what events are upcoming today,calendar_query,calendar_set
+play that podcast i was listening to yesterday,play_podcasts,qa_factoid
+have you heard any good music lately,general_quirky,qa_factoid
+please play only sad song in music player,play_music,calendar_set
+what is elvis favorite ride,qa_factoid,calendar_query
+what's a <unk>,qa_factoid,calendar_set
+delete to do list,lists_remove,calendar_set
+get rid of <unk> list from nineteen ninety,lists_remove,calendar_query
+i need to confirm all meetings for today can the invite person,calendar_query,calendar_set
+set a notification for three two and one hours before next week's english final,calendar_set,qa_factoid
+list all train times to ny,transport_query,calendar_set
+hey google play some jazz music for me,play_music,calendar_set
+olly how many meetings did mahatma gandhi undertake,qa_factoid,qa_factoid
+remind this event in future,calendar_set,calendar_set
+tell me about this week's weather,weather_query,calendar_set
+tell me what the product of eighteen and thirty one is,qa_maths,calendar_query
+has cassie sent me any emails about tom,email_query,qa_factoid
+history,general_quirky,calendar_set
+what shops are within ten miles,recommendation_locations,calendar_set
+what is eastern standard time right <unk>,datetime_query,calendar_set
+where are <unk> located,qa_factoid,calendar_set
+i like music,music_likeness,qa_factoid
+what <unk> heat better <unk> <unk> <unk> or cast iron,cooking_recipe,calendar_set
+play next episode of podcast,play_podcasts,calendar_set
+cancel alarm,alarm_remove,calendar_set
+inform me on the items on the list,lists_query,qa_factoid
+add bob to my list of contacts,lists_createoradd,calendar_query
+definition of <unk>,qa_definition,calendar_set
+is it any ones birthday,calendar_query,calendar_set
+show latest news,news_query,calendar_set
+are there any new emails in outlook,email_query,calendar_query
+fastest route to turiellos,transport_query,calendar_set
+tell me the <unk> of celebrity,qa_factoid,play_music
+make the room light blue,iot_hue_lightchange,calendar_set
+email chelsea,email_sendemail,calendar_set
+hey siri mute the speakers,audio_volume_mute,calendar_set
+set wake up thursday seven am,alarm_set,qa_factoid
+book me a train ticket to barcelona please,transport_ticket,qa_factoid
+i want to know today's weather,weather_query,calendar_set
+order a takeaway,takeaway_order,calendar_set
+what is the forecast for the week,weather_query,play_music
+i need some rap,play_music,qa_factoid
+did i email tom on the subject of <unk> control,email_query,calendar_set
+remove the appointment with george adams from my calendar,calendar_remove,calendar_set
+will there be a fall in temperature by tonight,weather_query,calendar_set
+post the message now,social_post,calendar_set
+i think i can travel the whole world in a day,general_quirky,calendar_set
+please add this email to my contacts,email_addcontact,calendar_set
+what's the current time in eastern standard,datetime_query,calendar_set
+describe the new football game <unk>,general_quirky,calendar_set
+please check my mail,email_query,calendar_set
+during the <unk> of february one and march sixteen what meetings occurred,calendar_query,calendar_set
+time difference between uk and us,datetime_convert,calendar_set
+can you tell me the times the train leaves for chicago,transport_query,calendar_set
+read me the latest headlines from <unk>,news_query,qa_factoid
+how do i figure women out,general_quirky,calendar_query
+play the oldies station,play_radio,calendar_set
+am i going to be able to mow the grass this evening,weather_query,qa_factoid
+check recent to do list,lists_query,calendar_set
+please note i like jazz and hate disco,music_likeness,calendar_query
+could you please help me in listening to the radio,play_radio,calendar_set
+i was <unk> by a dog,general_quirky,calendar_set
+cancel my plans to pick up my <unk> from the airport,calendar_remove,calendar_set
+tell me how to cook meatballs,cooking_recipe,calendar_set
+what is going on on december fourth,calendar_query,calendar_set
+how do i start the robot vacuum cleaner,iot_cleaning,qa_factoid
+please repeat my shopping list,lists_query,calendar_set
+please know that today i had a meeting with george,general_quirky,calendar_set
+weather in paris,weather_query,qa_factoid
+remind me the day before my car is due,calendar_set,calendar_query
+what is todays weather,weather_query,calendar_query
+will it be raining on thursday,weather_query,calendar_set
+what happened to the dow jones today,qa_stock,calendar_set
+daily news,news_query,calendar_set
+what is the time in another city,datetime_query,play_music
+i need some details about <unk> lee please <unk>,qa_factoid,qa_factoid
+remind me please,calendar_set,calendar_set
+where did <unk> clooney go to college,qa_factoid,calendar_query
+what is a <unk>,qa_definition,qa_factoid
+please turn the volume down,audio_volume_down,calendar_set
+switch wemo plug socket off,iot_wemo_off,qa_factoid
+is there anything important happening on social media,social_query,calendar_set
+please make the lights <unk>,iot_hue_lightchange,calendar_set
+please play <unk> of <unk>,play_game,qa_factoid
+what is the birth year of barack obama,qa_factoid,qa_factoid
+what is the traffic situation at the <unk> highway,transport_traffic,calendar_set
+tell me what's going on with facebook,social_query,calendar_set
+turn office lights off,iot_hue_lightoff,calendar_set
+when's mark <unk> next album out,qa_factoid,calendar_set
+can you remind me to take the garbage out on tuesday,calendar_set,calendar_set
+tweet complain <unk>,social_post,play_music
+remind me to check the <unk> at six o'clock,calendar_set,qa_factoid
+keep playing war and peace,play_audiobook,calendar_set
+what is the birthday of <unk>,qa_factoid,play_music
+hey check email,email_query,qa_factoid
+i want to listen to podcast,play_podcasts,calendar_set
+set my calendar to remind me to buy groceries every friday,calendar_set,calendar_set
+what time does the first <unk> arrive in the morning,transport_query,calendar_set
+start next podcast,play_podcasts,calendar_set
+describe the heart stone card game,qa_definition,calendar_query
+new gadgets,general_quirky,qa_factoid
+search the item,lists_createoradd,calendar_query
+please play the latest bill <unk> podcast,play_podcasts,qa_factoid
+please negative response tweet on <unk> service,social_post,calendar_set
+tell me about the latest political news,news_query,calendar_set
+send email to <unk> dot com,email_sendemail,qa_factoid
+tell me all about hurricane,qa_definition,calendar_set
+please tweet <unk> i've been waiting for my delivery for now #nothappy,social_post,calendar_set
+can you cook something special for me and my wife,general_quirky,qa_factoid
+email donna plans for today,email_sendemail,calendar_set
+where is <unk> located,qa_factoid,calendar_query
+i want <unk>,play_music,qa_factoid
+news of the train wreck,news_query,calendar_set
+add new item to list,lists_createoradd,qa_factoid
+what artist is this,music_query,calendar_set
+how many minutes do i need to wait to pick up my food from china on the go,takeaway_query,calendar_set
+let's have the lights blue,iot_hue_lightchange,calendar_set
+play pandora nineties dance party,play_music,calendar_set
+it's dirty here make some noise,iot_cleaning,qa_factoid
+convert eight thirty from <unk> four to g. m. t. five thirty,datetime_convert,calendar_set
+what sound does a dog make,general_quirky,calendar_set
+what month is today,datetime_query,play_music
+give me the description about smartphone,qa_definition,calendar_set
+play a game of <unk> as a second player,play_game,calendar_set
+remind me tonight to pick up my dry cleaning at eight pm,calendar_set,calendar_set
+book me a taxi to leith in half an hour,transport_taxi,play_music
+will i need to wear a jacket next wednesday,weather_query,calendar_set
+i want to hear the latest world news from today,news_query,qa_factoid
+friend updates,general_quirky,play_music
+i want you to play bohemian rhapsody for me,play_music,play_music
+turn on some npr and play them out of my speakers,play_radio,calendar_set
+remind me of the event in my calendar,calendar_set,calendar_set
+what time is it on the east coast of the united states,datetime_query,calendar_query
+please play songs i've <unk> and favorited,play_music,calendar_query
+just add a new email in my contacts from michael,email_addcontact,play_music
+<unk> the robot vacuum,iot_cleaning,qa_factoid
+open tasks delete future events,calendar_remove,calendar_set
+play my shuffled playlist please,play_music,calendar_set
+define speaker,qa_definition,calendar_set
+hey what will be the <unk> weather for tomorrow,weather_query,calendar_set
+email to new contact,email_sendemail,calendar_set
+what kind of weather are they having in orange tx right now,weather_query,calendar_set
+what is dolly <unk> birthday,qa_factoid,calendar_query
+make a call to,email_querycontact,play_music
+give the definition of <unk>,qa_definition,qa_factoid
+hey order two wings with french fries from the chinese food store,takeaway_order,calendar_set
+olly cancel all soccer practice alarms,alarm_remove,play_music
+add my car payment on the twelfth in my calendar,calendar_set,calendar_set
+please look in to the matter,general_quirky,qa_factoid
+what's the weather for my location this week,weather_query,calendar_set
+add this <unk> email,email_addcontact,calendar_set
+what time does the train to place leave,transport_query,calendar_query
+what is the trending now,news_query,qa_factoid
+power up the plug socket one,iot_wemo_on,play_music
+switch on the roomba,iot_cleaning,play_music
+can you play rock music for the next hour,play_music,calendar_query
+remind me everyday at two pm for lunch,calendar_set,qa_factoid
+set me a meeting next tuesday at eleven am with jesse,calendar_set,play_music
+check to see if i have any new emails from my dad,email_query,calendar_set
+so clean news in past six hours is what,query,qa_factoid
+today is which date,datetime_query,qa_factoid
+what is happening after one and before three pm,calendar_query,qa_factoid
+what is the exchange rate of euro and dollar,qa_currency,qa_factoid
+move to next section,play_podcasts,calendar_set
+play pride and prejudice,play_audiobook,calendar_set
+please check for new email,email_query,calendar_query
+remove my car payment on my calendar,lists_remove,play_music
+will there be rain tomorrow in rome,weather_query,qa_factoid
+cook me some <unk>,cooking_recipe,calendar_set
+latest new on international women's day,news_query,play_music
+next play summer lovin,play_music,qa_factoid
+mute the music,audio_volume_mute,qa_factoid
+let me hear my list,lists_query,qa_factoid
+is the twenty second on a wednesday,datetime_query,qa_factoid
+turn off the sounds,audio_volume_mute,play_music
+remind me my mom's birthday a week before,calendar_set,calendar_set
+brighten the lights in the hallway,iot_hue_lightup,qa_factoid
+add to list,lists_createoradd,calendar_set
+i would like to reply to the most recent email,sendemail,calendar_set
+change volume level to maximum,audio_volume_other,calendar_set
+what day is december thirteenth,datetime_query,calendar_set
+go to channel one hundred and six point nine,play_radio,calendar_set
+please play the radio gaga song,play_music,play_music
+tweet <unk> and tell them they <unk>,social_post,qa_factoid
+hey olly can you please make me a creamy coffee,iot_coffee,qa_factoid
+is there <unk> service at the event,calendar_query,calendar_set
+who is the current prime minister of russia,qa_factoid,play_music
+what is the square root of nine,qa_maths,qa_factoid
+please continue reading audiobook,play_audiobook,calendar_set
+send this email to reply to the latest emails,email_sendemail,calendar_set
+i am having a meeting on tomorrow set it,calendar_set,calendar_set
+find food and order,takeaway_order,qa_factoid
+baseball scores,general_quirky,calendar_set
+add new email address and send email,email_sendemail,calendar_set
+i need to something every monday set a reminder for it,calendar_set,qa_factoid
+show me tomorrows weather in this area,weather_query,calendar_set
+set a reminder for my daughters birthday,calendar_set,calendar_query
+where can i go tonight,recommendation_events,calendar_set
+brighten up the lighting,iot_hue_lightup,play_music
+where's the closest zoo to where i'm at,recommendation_locations,calendar_set
+tell me what the date is today,query,calendar_set
+my trip to goa photo post it on instagram,social_post,qa_factoid
+mark today as the start of my diet,calendar_set,calendar_set
+play the music,play_music,calendar_query
+play my rock playlist,play_music,calendar_set
+did <unk> email have an attachment,email_query,qa_factoid
+will i need sunscreen later,weather_query,qa_factoid
+please start the vacuum cleaner,iot_cleaning,calendar_set
+send a funny message to all of my friends,social_post,play_music
+a good first <unk>,general_quirky,qa_factoid
+send an email to grandma saying we are dropping by on saturday see you then,email_sendemail,qa_factoid
+could you please play temple run game for me,play_game,play_music
+what is the <unk> exchange rate us versus indian rupees,qa_currency,calendar_set
+please make me a cup of coffee,iot_coffee,qa_factoid
+do i have any new emails in my inbox today,email_query,qa_factoid
+which song is this one,music_query,calendar_set
+what is twelve divided by four,qa_maths,calendar_set
+what shops are round here,recommendation_locations,qa_factoid
+hi can you please turn lower the lights,iot_hue_lightdim,calendar_query
+turn off the speakers,audio_volume_mute,calendar_set
+is there any new information regarding the mexican american border wall,news_query,play_music
+send tech news,news_query,qa_factoid
+scratch that one from the list,lists_remove,calendar_set
+what is the email address for <unk>,email_querycontact,calendar_set
+yes or no tomorrow's temperature is to be hot,weather_query,calendar_set
+<unk> young <unk> and <unk> <unk> crash more often than other <unk> because they have not yet had the <unk> range of <unk> they need to drive <unk> by <unk> <unk> has shown that driving experience is a major <unk> in <unk> road <unk> and that the <unk> time for young <unk> is when they are driving under <unk> while learning,recommendation_events,calendar_set
+set a reminder in one hour for my bread to bake,calendar_set,qa_factoid
+silence for two hours,audio_volume_mute,calendar_set
+hey what has been happening interesting in sports lately,general_quirky,calendar_set
+<unk>,general_quirky,qa_factoid
+on friday please put dentist appointment at three,calendar_set,calendar_query
+i need an alarm set for five hundred and thirty am tomorrow,alarm_set,calendar_set
+fast me the news of <unk> awards,news_query,calendar_query
+show me the latest news from the <unk>,news_query,play_music
+turn off overhead light,iot_hue_lightoff,calendar_set
+turn on my playlist and play third song in the queue,play_music,calendar_set
+what's the recipe for fish soup,cooking_recipe,calendar_set
+delete event from calendar,calendar_remove,calendar_set
+play my favourite book,play_audiobook,qa_factoid
+what day is halloween this year,datetime_query,calendar_set
+could you please email john saying i'm on leave,email_sendemail,calendar_set
+cancel the breakfast at tiffany's house,calendar_remove,calendar_set
+turn off smart plug socket,iot_wemo_off,calendar_set
+delete all events,calendar_remove,calendar_set
+please slow down volume of speaker,audio_volume_down,play_music
+remove my <unk> appointment from today's schedule,calendar_remove,qa_factoid
+find the list,lists_query,calendar_set
+play romantic music in <unk> fm ninety two point seven,play_radio,calendar_set
+<unk> the schedules of the list,lists_query,calendar_set
+do you know of any good free <unk> <unk>,general_quirky,calendar_set
+play my favorites,play_music,qa_factoid
+play the previous podcast,podcasts,calendar_set
+tell me all events for today in my city,recommendation_events,play_music
+do we have <unk> <unk> number,email_querycontact,play_music
+are there any meetings set for next wednesday,calendar_query,calendar_set
+tweet something for me,social_post,calendar_set
+how many people are attending my next meeting,calendar_query,calendar_set
+will the temperature stay about the same or is it going to get colder,weather_query,calendar_set
+what are my available lists,lists_query,play_music
+does <unk> do take out,takeaway_query,calendar_set
+one plus two equal,qa_maths,calendar_set
+check for emails from my <unk>,email_query,qa_factoid
+stop play,play_audiobook,calendar_set
+disable my <unk>,iot_wemo_off,calendar_query
+do i have a date on friday,calendar_query,calendar_query
+i can't hear you,audio_volume_up,calendar_set
+where jackie chan currently live,qa_factoid,play_music
+remind,calendar_set,qa_factoid
+i want a lower light,iot_hue_lightdim,calendar_set
+reset my locations list,lists_remove,qa_factoid
+make a repeating reminder for this calendar event,calendar_set,qa_factoid
+whats the date,datetime_query,calendar_set
+describe item xy,qa_definition,play_music
+play nine hundred and eighty nine the radio station,play_radio,play_music
+where is a walking trail near me,recommendation_locations,calendar_set
+include mike and jack to festival calendar,calendar_set,calendar_query
+how much would it cost to buy stock in apple,qa_stock,calendar_set
+raise volume,audio_volume_up,play_music
+please turn on my balcony lights,iot_hue_lighton,calendar_set
+please alert me to the time,datetime_query,calendar_set
+olly book me a ticket to paris on eurostar this weekend,transport_ticket,calendar_set
+social media,social_query,qa_factoid
+please <unk> the latest george r r martin <unk> and fire book,qa_factoid,calendar_query
+iphone seven description,qa_definition,calendar_set
+send email to <unk> dot com,email_sendemail,calendar_set
+one thousand two hundred and thirty pm already you will have a meeting in ten mins,calendar_query,qa_factoid
+tell me what clothing stores are within five miles of me,recommendation_locations,play_music
+what is the largest desk,qa_definition,calendar_set
+my day was great,general_quirky,calendar_set
+email <unk> about the budget meeting,email_sendemail,play_music
+play my most watched podcast,play_podcasts,qa_factoid
+next,play_podcasts,qa_factoid
+what does the email say that was sent thirty minutes ago from mom,email_query,calendar_query
+display recent email from john,email_query,calendar_set
+email notifications,email_query,play_music
+can you make some coffee,iot_coffee,play_music
+how long should i cook a steak to be medium,cooking_recipe,qa_factoid
+what is an electronic <unk> system,qa_definition,calendar_set
+set first week of june as holiday in my calendar,calendar_set,calendar_set
+what is the best chocolate chip cookies recipe,general_quirky,calendar_set
+hey olly i missed you,general_quirky,calendar_set
+explain the geographical location of india,qa_factoid,calendar_set
+play me this mornings show from one hundred and one point nine,play_radio,calendar_set
+alarm settings,alarm_query,calendar_set
+meeting reminder,calendar_set,calendar_set
+who is celebrity,qa_factoid,calendar_set
+order a pizza with <unk> from domino's,takeaway_order,calendar_set
+please play the <unk> audio,play_audiobook,calendar_set
+are there any updates in regard to the election,news_query,calendar_set
+great song for the commute,music_likeness,play_music
+should i bring an umbrella tomorrow,weather_query,calendar_set
+buddy <unk> event in your calendar,calendar_set,calendar_set
+general health <unk>,general_quirky,calendar_set
+i would like a cheeseburger,cooking_recipe,play_music
+how many of my contacts live or work in detroit,email_querycontact,calendar_set
+what new email says,email_query,qa_factoid
+hey tell me more about my meetings today,general_quirky,calendar_set
+please play radio station one right now,play_radio,calendar_set
+what is the make up of the chair,qa_factoid,calendar_set
+how is the stock going in general,qa_stock,calendar_set
+remind me to wash the windows,calendar_set,calendar_set
+what going on,social_query,calendar_set
+open <unk>,play_game,qa_factoid
+where is <unk> park,qa_factoid,calendar_set
+find john smith in contacts,email_querycontact,calendar_set
+remind me to get the oil changed,calendar_set,calendar_set
+what are some restaurants near me,recommendation_locations,qa_factoid
+just let me know next week's weather in california,email_sendemail,qa_factoid
+tweet to apple about non receipt of iphone i sent for <unk> last week,social_post,play_music
+please turn on the wemo plug socket,iot_wemo_on,play_music
+weather report now,weather_query,calendar_set
+what's on the radio right now,music_query,calendar_set
+what is the current traffic situation,transport_traffic,calendar_set
+make an order for noodles one pack make it as takeaway order,takeaway_order,play_music
+prepare a cup of coffee for me,iot_coffee,calendar_set
+what time is my next appointment,calendar_query,calendar_query
+reply this mail,email_sendemail,calendar_set
+tell me the funniest joke that was ever told,general_joke,qa_factoid
+remove new year from calendar,calendar_remove,qa_factoid
+please remove this event from my calendar,calendar_remove,calendar_query
+replay my last played podcast,play_podcasts,calendar_set
+how tall is mount everest,qa_factoid,calendar_query
+olly can we listen to reply all podcast,play_podcasts,qa_factoid
+what is the weather going to be like on march twentieth two thousand and seventeen,weather_query,calendar_set
+increase the brightness in this room,iot_hue_lightup,calendar_set
+brighten the light of hall,iot_hue_lightup,calendar_set
+what are my current list,lists_query,calendar_set
+olly tell me my alarms,alarm_query,calendar_set
+ok google delete <unk> <unk> from the calendar,calendar_remove,calendar_set
+hello i want to turn off my wemo plug,iot_wemo_off,qa_factoid
+show me the contents of the list,lists_query,play_music
+what else is <unk> in the <unk>,lists_query,qa_factoid
+what did i put down already on the walmart list,lists_query,calendar_set
+compose a new email but i got a new address this time <unk> at <unk> dot com,email_sendemail,calendar_set
+do not speak today,audio_volume_mute,calendar_set
+what happens to me if you become <unk>,general_quirky,calendar_query
+tweet my current location,social_post,qa_factoid
+beep when i get an email from john,email_query,qa_factoid
+robot vacuum the living room now,iot_cleaning,qa_factoid
+hey siri start an email to coworker,email_sendemail,calendar_set
+i need to buy gas,general_quirky,calendar_set
+will you send a calendar invite out to james and alice for brunch at eleven am on tuesday,calendar_set,calendar_set
+look up the definition of <unk>,qa_definition,qa_factoid
+please remove the following list,lists_remove,calendar_set
+my coffee is cold please make more coffee,iot_coffee,calendar_set
+does pings do takeaway,takeaway_query,calendar_set
+lower volume by fifty percent,audio_volume_down,play_music
+go back to the last episode in this podcast,play_podcasts,qa_factoid
+what <unk> of sunglasses are <unk> <unk>,qa_factoid,calendar_set
+tweet at united <unk> i'm angry you lost my <unk>,social_post,calendar_set
+please play the song every time i see you,play_music,play_music
+let's play my most played song list,play_music,calendar_set
+noodles one pack make it as takeaway,takeaway_order,calendar_query
+whats the weather like tomorrow,weather_query,calendar_set
+confirm my alarm settings,alarm_query,play_music
+play love songs,play_music,calendar_set
+from now on mute,audio_volume_mute,calendar_query
+what are today's sports news,news_query,calendar_set
+help is to be sent only to jane,email_sendemail,calendar_query
+play any song by joe <unk>,play_music,calendar_set
+what <unk> shows are in tulsa,recommendation_events,calendar_set
+tell my meetings for tomorrow morning,calendar_query,calendar_set
+can you tell me how many <unk> a <unk> has,qa_factoid,calendar_query
+get me latest updates from facebook,social_query,calendar_set
+remind me about the meeting tomorrow one hour before,calendar_set,calendar_set
+what are the upcoming concerts in dallas,calendar_query,qa_factoid
+let's go through all pending reminders,calendar_query,calendar_set
+tell me if global warming is true,general_quirky,qa_factoid
+where is mary's birthday party being held,calendar_query,calendar_set
+olly i am taking day off tomorrow,general_quirky,calendar_query
+how to cook spaghetti squash,cooking_recipe,qa_factoid
+stop audiobook,play_audiobook,calendar_set
+find out what song this is and tell me the name,music_query,calendar_set
+please clear my calendar,remove,calendar_set
+has anyone follow me today on twitter today,social_query,qa_factoid
+what is <unk> stock going for,qa_stock,calendar_set
+turn my bedroom lights off,iot_hue_lightoff,calendar_set
+what are todays top podcasts,play_podcasts,play_music
+please play thirteen,play_music,calendar_set
+what is the <unk> of <unk> express,transport_query,calendar_query
+turn the kitchen lights off,iot_hue_lightoff,calendar_set
+can you describe a credit card,qa_definition,calendar_set
+how much is the british pound,qa_currency,qa_factoid
+schedule a sales meeting for wednesday at eleven am,calendar_set,calendar_set
+display the local time of london at this moment,datetime_query,calendar_set
+mute volume,audio_volume_mute,calendar_set
+stream poker face by lady gaga,play_music,calendar_set
+tell me about the cheapest flight <unk> to nj today,transport_ticket,play_music
+current time in <unk>,datetime_query,calendar_set
+order a twelve piece honey <unk> <unk> combo with <unk> <unk> the fries and a <unk> as the drink,takeaway_order,play_music
+alert me at the time of the event,calendar_set,calendar_set
+we should play <unk> at high speed,play_game,qa_factoid
+cancel everything on my calendar,calendar_remove,qa_factoid
+set my alarm for twelve pm,alarm_set,calendar_set
+to compare in people,qa_factoid,calendar_set
+what is the <unk> of this location,general_quirky,calendar_query
+i want to hear snow by red hot chili peppers,play_music,calendar_set
+show me the latest news from the <unk>,news_query,calendar_set
+wake me at six am thursday so i have time for the meeting,calendar_set,play_music
+create a meeting event in my calendar,calendar_set,calendar_set
+open games,play_game,play_music
+what are the traffic conditions on the one hundred and one,transport_traffic,qa_factoid
+play me in tic tac toe,play_game,calendar_set
+can you please add an item to my grocery list,lists_createoradd,calendar_set
+locate me the amazon restaurants,recommendation_locations,qa_factoid
+tell me the largest ocean in the world,qa_factoid,calendar_set
+are you working for the nsa,general_quirky,calendar_set
+set a meeting event reminder with mona on tuesday,calendar_set,calendar_set
+raise the lights,iot_hue_lightup,calendar_set
+tell me more about my events,general_quirky,play_music
+is it friday,calendar_query,calendar_set
+what are the headlines on cnn,news_query,qa_factoid
+please power down,iot_wemo_off,calendar_set
+just <unk> chit chat,general_quirky,calendar_set
+will i need sunscreen this afternoon,weather_query,calendar_set
+launch game,play_game,calendar_set
+remove anniversary event from my calendar,calendar_remove,calendar_set
+how do i make pizza,cooking_recipe,calendar_set
+what's my schedule today,calendar_query,calendar_set
+go to the washington post website,news_query,qa_factoid
+play let me love you by <unk> <unk>,play_music,calendar_set
+what is a good <unk> film from two thousand and sixteen,recommendation_movies,calendar_query
+movies with good reviews,recommendation_movies,calendar_query
+how is <unk> made,cooking_recipe,calendar_set
+olly what do i have planned next,calendar_query,calendar_set
+could you tell me the time in london,datetime_query,calendar_set
+do i have anything going on,calendar_query,qa_factoid
+next play justin bieber's sorry,play_music,calendar_set
+play scrabble with me,play_game,calendar_set
+what do you want to do today,general_quirky,qa_factoid
+please play only ar <unk> songs,play_music,calendar_set
+send an email to rohit saying i am busy tomorrow,email_sendemail,qa_factoid
+please stop talking,audio_volume_mute,calendar_set
+open audiobook,play_audiobook,calendar_set
+the second of next <unk> lands on what day,datetime_query,calendar_set
+olly turn on the coffee machine to make me some coffee,iot_coffee,calendar_set
+is it wednesday,datetime_query,play_music
+google train tickets to washington dc,transport_ticket,calendar_query
+lower the intensity of light,hue_lightdim,calendar_set
+what is the nearest pizza shop,recommendation_locations,calendar_set
+can you upload my latest selfie in my facebook account,social_post,calendar_set
+call city cab to airport,transport_taxi,calendar_set
+is there any events planned for the next three months,calendar_query,calendar_set
+open tweet to apple that my <unk> battery is always <unk>,social_post,play_music
+can you please download my podcast file available in internet and play it once,play_podcasts,calendar_set
+i'd like some red lighting,iot_hue_lightchange,calendar_set
+what time is my doctor appointment on march thirty first,calendar_query,play_music
+where is a theatre in my area,recommendation_locations,qa_factoid
+listen to my favorites,play_music,calendar_set
+please show me the list that i have,lists_query,qa_factoid
+new list,lists_createoradd,qa_factoid
+please send an email to uncle john with the following yes i can make it,email_sendemail,calendar_set
+is the weather going to be nice this weekend,weather_query,calendar_set
+how old are you,general_quirky,calendar_query
+olly where is my food,takeaway_query,qa_factoid
+facebook,social_query,qa_factoid
+remove birthday from calendar,calendar_remove,qa_factoid
+whats happening around my town,recommendation_events,play_music
+it is seven am in pacific standard time,datetime_convert,calendar_set
+how long until my order is ready,takeaway_query,play_music
+send an email to peter and ask him how is he now can i do something to help him,email_sendemail,qa_factoid
+what is the weather this friday,weather_query,qa_factoid
+find songs from my big band playlist,play_music,qa_factoid
+olly do they deliver home,query,qa_factoid
+list of famous biryani recipes,cooking_recipe,calendar_set
+is <unk> curry married,qa_factoid,calendar_set
+are <unk> likely today,weather_query,qa_factoid
+what movie can i watch tonight on the theater here in boston,recommendation_events,calendar_set
+let's play music hits,play_radio,qa_factoid
+start the gilmore guys,play_podcasts,calendar_set
+new updates,social_query,qa_factoid
+please create new list,lists_createoradd,calendar_set
+what are my pending tasks,calendar_query,calendar_set
+who are your <unk>,general_quirky,play_music
+what can i substitute butter with,cooking_recipe,calendar_query
+send mom an email now,email_sendemail,calendar_set
+lets play <unk>,play_game,qa_factoid
+can you substitute baking <unk> for baking <unk>,cooking_recipe,calendar_query
+tweet about cold pizza to papa johns,social_post,calendar_set
+i've cancelled the order placed at <unk> did it go through,takeaway_query,calendar_set
+call me a taxi olly,transport_taxi,calendar_set
+read what is on my list,lists_query,calendar_set
+please update my grocery list with one <unk> of two percent milk,lists_createoradd,qa_factoid
+please start vacuum cleaner,iot_cleaning,calendar_set
+change volume to thirty five percent,audio_volume_other,qa_factoid
+who is this on the radio,music_query,qa_factoid
+play <unk> <unk> <unk> program on ninety one point three fm,play_radio,calendar_set
+what <unk> do you usually make,general_quirky,calendar_set
+remind me about my schedule for the afternoon,calendar_set,calendar_set
+what time is it in cleveland,datetime_query,calendar_set
+let me know when you hear about france,news_query,calendar_set
+the event will include <unk> and <unk>,calendar_set,calendar_set
+what is the ten day forecast,weather_query,play_music
+check email about my job,email_query,calendar_query
+reply to johns email,email_sendemail,calendar_set
+open harry potter audiobook and play from last played,play_audiobook,calendar_set
+delete the last phrase,lists_remove,calendar_query
+do i have anything planned for the twenty first,calendar_query,calendar_set
+what does <unk> chopra do to look <unk>,general_quirky,qa_factoid
+play classic rock,play_music,calendar_set
+hey olly i met one of my old <unk> today,general_quirky,calendar_set
+olly tell me the time in g. m. t. plus five,datetime_convert,calendar_set
+away off from list,lists_remove,calendar_set
+add a reminder of a conference for tomorrow in new york,calendar_set,qa_factoid
+tell me the news about share market <unk> and <unk>,news_query,calendar_set
+when is my <unk> birthday coming up,general_quirky,calendar_set
+olly find the nearest uber,transport_taxi,qa_factoid
+mark april twenty as my brother's birthday,calendar_set,calendar_set
+cnn headlines,news_query,calendar_set
+add <unk> five dollars in my expenses list,lists_createoradd,qa_factoid
+start celine dion songs,play_music,calendar_set
+whats <unk> bacon,general_quirky,qa_factoid
+where in dc is that meeting at one pm on friday,calendar_query,calendar_set
+what is the highest rated movie now out,recommendation_movies,qa_factoid
+post this to my facebook <unk>,social_post,play_music
+which pole is colder south or north,qa_factoid,play_music
+i want to make a note on my calendar for the event tomorrow at the library,calendar_set,calendar_set
+resume animal farm,play_audiobook,calendar_query
+what should i make for dinner,cooking_recipe,calendar_set
+what is the funniest joke ever,general_joke,qa_factoid
+show me my calendar event this friday afternoon,calendar_query,calendar_set
+give me an update on the election in one hour,calendar_set,calendar_set
+what date is it,calendar_query,calendar_set
+what's the recipe for fried chicken,cooking_recipe,qa_factoid
+play the song i listen to the most,play_music,calendar_set
+start some music play the radio,play_radio,calendar_query
+what time is it in london,datetime_query,calendar_set
+schedule a lunch meeting with brent on wednesday at noon,calendar_set,qa_factoid
+is it anyone i knows birthday this month,email_querycontact,calendar_set
+check emails,email_query,calendar_set
+make a coffee please,iot_coffee,calendar_set
+play audiobook of planets,play_audiobook,calendar_set
+please define forensic,qa_definition,calendar_set
+delete last item listed,lists_remove,play_music
+have i received any emails from <unk> <unk>,email_query,calendar_set
+book a train ticket from here to <unk> west virginia at eight am today,transport_ticket,calendar_set
+play my midnight love playlist,play_music,calendar_set
+what's my upcoming week look like,calendar_query,play_music
+have i received any emails in the last ten minutes,email_query,calendar_set
+how do i make a pizza,cooking_recipe,qa_factoid
+show me the dim colour,iot_hue_lightdim,calendar_set
+does pizza hut have delivery,takeaway_query,qa_factoid
+what song is on the radio,music_query,qa_factoid
+which ocean touches at our continent,qa_factoid,play_music
+cancel my seven am alarm,alarm_remove,calendar_set
+tell me what i <unk> yesterday,general_quirky,calendar_set
+any events this weekend in pondichery,recommendation_events,play_music
+make a reminder of location a on calendar,calendar_set,calendar_set
+send a tweet about <unk> volume issues,social_post,qa_factoid
+play and shuffle all slow music songs,play_music,calendar_set
+call taxi,transport_taxi,calendar_query
+play the most recent podcast for this american life,play_podcasts,calendar_set
+when i came back from this place,general_quirky,calendar_set
+send an email to my assistant <unk> to cancel all appointments for tomorrow,email_sendemail,calendar_set
+what is six divided by two,qa_maths,qa_factoid
+<unk> week's weather details,weather_query,calendar_set
+add practice to calendar on <unk> four at <unk> park at two pm,calendar_set,calendar_set
+read me the latest international news,news_query,play_music
+turn down the lights to medium,iot_hue_lightoff,calendar_set
+turn off my wemo socket,iot_wemo_off,calendar_set
+please check my mails,email_query,calendar_set
+give me the description of a television <unk>,qa_definition,play_music
+when is the next friday the thirteenth,datetime_query,play_music
+please remind me to call mom in half an hour,calendar_set,qa_factoid
+do i have any new friend requests,social_query,calendar_set
+cancel all my appointments,calendar_remove,calendar_set
+what is twelve plus one hundred and ninety six,qa_maths,calendar_query
+can you make the lights go out,iot_hue_lightoff,calendar_query
+i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon <unk>,lists_remove,calendar_set
+i would like the like in the kitchen to be a different color,iot_hue_lightchange,calendar_set
+remind me to contact old friends that i have not talked with in six months before they pass,calendar_set,play_music
+my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id,email_sendemail,qa_factoid
+play kiss fm for me,play_radio,play_music
+let's play,play_game,calendar_set
+what features do you have planned to release in the future,general_quirky,calendar_set
+please send an email to cassy who is there on my family and friend list,email_sendemail,play_music
+what is the latest news on donald trump,news_query,calendar_set
+i had a problem with my burger can you tweet <unk>,social_post,calendar_query
+this is a good tune please <unk> file accordingly,music_likeness,calendar_query
+rap,play_music,calendar_set
+what is the time in canada now,datetime_query,calendar_query
+is there a meeting on my calendar this afternoon,calendar_query,calendar_set
+who is the singer of hotel california,music_query,calendar_query
+what time is the black <unk> gala dinner supposed to begin,calendar_query,qa_factoid
+what is on the agenda for the four pm meeting with joe,calendar_query,play_music
+set alarm at nine am on next sunday,alarm_set,qa_factoid
+initiate polling for new email,email_query,calendar_set
+are there morning shows available,calendar_query,calendar_query
+is my alarm set for tomorrow morning,alarm_query,qa_factoid
+i'm going to sleep now,iot_hue_lightoff,calendar_set
+hey play my favourite podcast from list,play_podcasts,calendar_set
+enable smart socket,iot_wemo_on,play_music
+help me start my kitchen list,lists_createoradd,qa_factoid
+give me today's calendar events after six pm,calendar_query,calendar_set
+remind me about the party tomorrow,calendar_set,play_music
+who am i meeting today,calendar_query,calendar_set
+when did elvis die,qa_factoid,calendar_set
+give me the time of the events,calendar_query,calendar_query
+play my favorite podcast please,play_podcasts,calendar_set
+what reminders do i have,calendar_query,calendar_query
+begin a new list,lists_createoradd,calendar_set
+please tell me the news headlines,news_query,play_music
+<unk> channel,play_podcasts,play_music
+please turn on my coffee pot,iot_coffee,calendar_set
+send an email to john asking him what time works for the meeting,email_sendemail,qa_factoid
+tweet complaint to at,social_post,calendar_set
+remind me about the meeting tomorrow at six,calendar_set,play_music
+play radio <unk> for me,play_radio,play_music
+i love this song,music_likeness,calendar_set
+can i get <unk> on the radio in the bedroom,play_radio,qa_factoid
+remind me to call mom every tuesday at ten am,calendar_set,calendar_set
+<unk> based news,news_query,play_music
+play the song title,play_music,calendar_set
+add bananas to my shopping list,lists_createoradd,calendar_query
+what is the root of six hundred and twenty five,qa_maths,calendar_set
+i need this email sent now,email_sendemail,calendar_set
+house change all lights to blue,iot_hue_lightchange,play_music
+where was will <unk> <unk> last night,general_quirky,calendar_set
+please set this date to repeat,calendar_set,qa_factoid
+where does <unk> <unk> live,qa_factoid,qa_factoid
+open the folder app please,takeaway_order,calendar_set
+what should i cook for <unk>,cooking_recipe,play_music
+is there any news olly,news_query,play_music
+add my opinion to this song great,music_likeness,qa_factoid
+check my to do list,lists_query,calendar_set
+coffee,iot_coffee,calendar_set
+can they provide takeaway,takeaway_query,play_music
+my party planning,calendar_query,calendar_set
+open contacts,email_addcontact,qa_factoid
+suffering <unk>,qa_definition,calendar_set
+are there any fun events in la today,recommendation_events,calendar_set
+swimming,recommendation_events,play_music
+who takes less of duration of time for delivery,takeaway_query,qa_factoid
+olly turn the news on,news_query,calendar_set
+please book a ticket of rajdhani express train from jaipur,transport_ticket,qa_factoid
+trash the current list,lists_remove,calendar_set
+train ticket,transport_ticket,play_music
+can you track my <unk> based on the way i speak,general_quirky,calendar_set
+what is scheduled on my calendar today,calendar_query,calendar_set
+i want to see the news,news_query,calendar_set
+what's a good joke,general_joke,calendar_set
+olly i'm looking for some dress shows can you find clothing stores within one mile,recommendation_locations,calendar_query
+check my social <unk>,social_query,qa_factoid
+play nineties hip hop,play_music,play_music
+show me the most recent emails,email_query,calendar_query
+please check my gmail for new mail,email_query,calendar_set
+remind me i take mom to the <unk> thursday at one thousand one hundred am,calendar_set,calendar_set
+will i need my snow boots this afternoon,weather_query,qa_factoid
+play the latest rock songs having rating of four or above,play_music,calendar_set
+please remove my alarm,alarm_remove,calendar_set
+show me any emails received in the last hour,email_query,calendar_set
+olly let's listen to hunt for read october,play_audiobook,calendar_set
+turn it up olly,audio_volume_up,calendar_set
+send reply,sendemail,calendar_set
+olly please list the best clothing shops near me,recommendation_locations,qa_factoid
+what is the weather this week for miami,weather_query,calendar_set
+what is on my to do list,lists_query,calendar_set
+up load all my podcast,play_podcasts,qa_factoid
+play chess,play_game,play_music
+i need good ideas for cooking,cooking_recipe,calendar_query
+play my radio station,play_radio,play_music
+olly anything else left on the list,lists_query,calendar_set
+look for apple pie recipe,cooking_recipe,play_music
+alexa how much do you know about me,general_quirky,calendar_query
+put hamburger on my grocery list,lists_createoradd,qa_factoid
+<unk>,general_quirky,qa_factoid
+can you really see russia from alaska,qa_factoid,calendar_set
+<unk> adjust,audio_volume_mute,qa_factoid
+what is a chair,qa_definition,calendar_set
+remove my appointment with my doctor on saturday please,calendar_remove,qa_factoid
+upcoming events in calendar,calendar_set,calendar_set
+what's my schedule like today,calendar_query,qa_factoid
+what is the weather condition in new york,weather_query,calendar_set
+remove my next scheduled appointment please,calendar_remove,qa_factoid
+make a new alarm,alarm_set,calendar_set
+please rate current song as five stars,music_likeness,calendar_set
+play <unk> home <unk> on the car radio,play_radio,qa_factoid
+what is the current time,datetime_query,calendar_set
+house can you make all the lights in the house blue,iot_hue_lightchange,qa_factoid
+olly tweet walmart and tell them their customer service is horrible,social_post,calendar_query
+please change time zone to canada,datetime_convert,play_music
+is this song ed sheeran,music_query,qa_factoid
+tweet @,social_post,calendar_query
+play it again please,play_music,calendar_set
+what's the currency exchange rate for china,qa_currency,calendar_set
+has robert emails me yet,email_query,calendar_set
+tell me what the weather is doing in grand rapids mi right now,weather_query,qa_factoid
+can you reply to charlotte that i am going to be busy with the <unk> for next three weeks,email_sendemail,calendar_set
+do you know the name of the song that is playing,music_query,calendar_set
+power off the wemo plug,iot_wemo_off,calendar_set
+start sirius xm radio channel,play_radio,play_music
+siri please turn the lights off in the bathroom,iot_hue_lightoff,calendar_set
+on my to <unk> remove mop kitchen,lists_remove,play_music
+will the temperature be higher than forty tomorrow,weather_query,calendar_set
+check for emails from steve,email_query,qa_factoid
+<unk> friendly,news_query,qa_factoid
+olly how long should i boil the eggs,cooking_recipe,play_music
+define flabbergasted,qa_definition,play_music
+alexa start email,email_sendemail,calendar_set
+activate the roomba,iot_cleaning,calendar_set
+what is the traffic like now,transport_traffic,calendar_set
+tweet samsung and tell them to stop <unk> people with their products,social_post,calendar_set
+give me a weather report for las vegas,weather_query,calendar_set
+check my email for any new email from joe,email_query,play_music
+olly what are new drama movies opening this weekend,recommendation_movies,calendar_set
+details on person,qa_factoid,calendar_set
+what are pounds worth right now,qa_currency,qa_factoid
+open google keep,lists_query,qa_factoid
+please send an email to sally regarding tomorrows meeting,email_sendemail,calendar_set
+what's the week's forecast,weather_query,calendar_set
+whats the current weather,weather_query,calendar_set
+call an <unk> to get me at long island bar,transport_taxi,calendar_set
+remind me the wedding on time to buy a present,calendar_set,qa_factoid
+show me podcasts,play_podcasts,play_music
+add a lunch with mike,calendar_set,calendar_set
+say the time,datetime_query,calendar_set
+wake me up at five am,alarm_set,calendar_query
+can you book an uber after i left for office,transport_taxi,calendar_set
+what's the latest news from cnn please,news_query,calendar_set
+please book train ticket from mumbai to sangli for tomorrow morning,transport_ticket,play_music
+show john's contact information,email_querycontact,play_music
+what are the <unk> conditions in that area,qa_factoid,play_music
+turn off porch light,iot_hue_lightoff,calendar_set
+tell me the current price of <unk> <unk> stock,qa_stock,calendar_set
+what is my next reminder,calendar_query,calendar_set
+what do i have scheduled for the nineteenth at two pm,calendar_query,calendar_set
+travel book a train ticket,transport_ticket,calendar_query
+train times from near me to location,transport_query,calendar_set
+what's the temperature outside,weather_query,calendar_set
+what is the wake up time for my alarm i have set for the flight this weekend,alarm_query,calendar_set
+where is the nearest gas station,<unk_intent>,calendar_set
+open davinci code audiobook,play_audiobook,qa_factoid
+inform my group that the new meeting date is tomorrow,calendar_set,qa_factoid
+prepare email for susan,email_sendemail,calendar_set
+remind me to start getting ready by five pm please,calendar_set,calendar_set
+this new email should be added to my contact,email_sendemail,qa_factoid
+keep me up to date with today's <unk> scores,news_query,calendar_query
+when does the <unk> train run today,transport_query,calendar_query
+please get the coffee machine to make me some coffee,iot_coffee,qa_factoid
+i would like to know the best rating pubs in the local area,recommendation_locations,calendar_set
+share in friends post,social_post,calendar_query
+i want to know about this song,music_query,calendar_set
+play youtube playlist blank,play_music,play_music
+best rap music,play_music,calendar_query
+please put all the lights,iot_hue_lightup,calendar_set
+check meeting schedule in todays mail,email_query,calendar_set
+how long do you cook a fifteen pound turkey,cooking_recipe,calendar_query
+is there anything happening on jazz <unk> around edinburgh,recommendation_events,qa_factoid
+let me know in two hours that i have to leave for my <unk> <unk> that's at four pm at <unk>,calendar_set,calendar_set
+what i am going to do today,lists_query,qa_factoid
+resume harry potter book four,play_audiobook,qa_factoid
+reply email,email_sendemail,calendar_set
+i need to order some food from papa john's,takeaway_order,calendar_set
+please alert me a day before jeff's birthday,calendar_set,play_music
+mute for one hour,audio_volume_mute,calendar_query
+when is the next train to glasgow from <unk>,transport_query,calendar_set
+set an alert for two pm,alarm_set,qa_factoid
+add a meeting to my calendar for nine am with tom,calendar_set,calendar_set
+play previous song,play_music,play_music
+write an email to my family saying i love you all,email_sendemail,calendar_set
+most <unk> list,lists_query,calendar_set
+email jerry regarding the meeting,email_sendemail,play_music
+would you love to see,iot_hue_lightchange,calendar_set
+do i need umbrella for night,weather_query,play_music
+current weather,weather_query,qa_factoid
+check most current emails,email_query,qa_factoid
+did i receive any new emails from dan,email_query,qa_factoid
+<unk> away my to do list please,lists_remove,qa_factoid
+hold,play_audiobook,calendar_set
+<unk> needs to talk to me about our divorce can you please set up a meeting as soon as i am available,calendar_set,calendar_set
+i want to hear purple haze,play_music,calendar_set
+what's was the upcoming event,calendar_query,qa_factoid
+time between us and canada,datetime_convert,calendar_set
+my set alarms,alarm_query,calendar_set
+what was the first movie of morgan freeman,qa_factoid,calendar_set
+house lights blue,iot_hue_lightchange,calendar_set
+next song,play_music,calendar_set
+what is the yen worth,qa_currency,calendar_set
+i really enjoy this song,music_likeness,calendar_set
+open company name and find complaints,social_post,qa_factoid
+what is the time difference between california and new york,datetime_convert,calendar_set
+can you increase the brightness in the room,iot_hue_lightup,play_music
+clear everything off my calendar for the rest of the year,calendar_remove,calendar_set
+start and email to john smith,email_sendemail,qa_factoid
+how much is starbuck's stock these days,qa_stock,calendar_set
+which contact haven't i called in twelve months,email_querycontact,calendar_set
+play the song let it go,play_music,calendar_set
+how much wood could a woodchuck chuck if a woodchuck could chuck wood,general_quirky,calendar_query
+find naty from my contacts and send her an email,email_sendemail,calendar_set
+what is mr <unk> phone number it is in my contacts,email_querycontact,calendar_set
+could you please find me the latest news from a source that i do not usually go to,news_query,calendar_set
+what are the trending articles on the new york times,news_query,qa_factoid
+make sure there is no events on my calendar,calendar_remove,calendar_set
+what is the <unk> of <unk> <unk>,qa_factoid,calendar_set
+get rid of all my scheduled events,calendar_remove,qa_factoid
+can you remove this item from the list,lists_remove,calendar_set
+i want to listen to the latest mike and mike podcast,play_podcasts,calendar_query
+today the following happened to me i had a meeting with george,general_quirky,calendar_query
+how cold will it get each night this week,weather_query,calendar_set
+olly do i have any new emails,email_query,calendar_set
+alexa change the radio station,play_radio,calendar_query
+please let me know the dog shows events going on in my home town,recommendation_events,calendar_set
+find information on today's stocks,news_query,calendar_set
+search in the web for buying <unk> for <unk>,cooking_recipe,qa_factoid
+put my dinner at red lobster on the calendar for today at nine,calendar_set,calendar_set
+can you erase the haircut i have scheduled for friday,calendar_remove,calendar_set
+remind me to pick up mark at the airport at six pm,calendar_set,calendar_set
+display date,datetime_query,calendar_query
+exchange rate of euro with dollar,qa_currency,calendar_set
+resume born to run,play_music,calendar_set
+play <unk> from my rock playlist,play_music,calendar_set
+are there any new emails received after four o'clock today,email_query,qa_factoid
+get rid of the list google,lists_remove,calendar_set
+play me a game of tic tac toe,play_game,qa_factoid
+when does my alarm go off,alarm_query,qa_factoid
+i want to hear any songs that got <unk> this year,play_music,calendar_set
+tell me if taco bell delivers,takeaway_query,qa_factoid
+define blanket,qa_definition,play_music
+please give me information about john abraham lincon,qa_factoid,play_music
+please tell me the latest news,news_query,play_music
+where is new <unk> located on a map,qa_factoid,calendar_set
+lets send a tweet,social_post,calendar_set
+how hot is it in <unk>,weather_query,qa_factoid
+trash my list,lists_remove,qa_factoid
+i need to make a list,lists_createoradd,calendar_query
+where are the rocky mountains,qa_factoid,calendar_query
+i need to talk to mom,general_quirky,play_music
+please add an email for john doe to my contacts johndoe@yahoo dot com,email_addcontact,calendar_set
+is there a <unk> train from london to paris and what time,transport_query,calendar_set
+respond with,email_sendemail,calendar_set
+title of song,music_query,qa_factoid
+what is the increase in stock value over the past week of disney,qa_stock,calendar_set
+delete calendar item,calendar_remove,calendar_query
+remove next monday's meeting,calendar_remove,calendar_set
+continue the last <unk> of the audio book i was listening to,play_audiobook,calendar_set
+google save all the songs i have listened to more than once,music_likeness,calendar_set
+play a game with me,play_game,play_music
+become a <unk>,general_quirky,calendar_set
+what color are <unk>,qa_factoid,qa_factoid
+dollar to euro exchange rate,qa_currency,qa_factoid
+set a meeting between myself and john at two pm tomorrow,calendar_set,calendar_set
+what is the current time in chennai,datetime_query,calendar_set
+did i leave the light on in the garage,iot_hue_lightoff,calendar_set
+how is it outside today,weather_query,calendar_set
+is the song by shakira,music_query,play_music
+i need to create a new to do list,lists_createoradd,qa_factoid
+what's the answer to the universe,qa_factoid,calendar_set
+remove <unk> dinner with <unk>,calendar_remove,calendar_set
+<unk> <unk> lights,iot_hue_lightoff,calendar_query
+please send to new email address listed,email_sendemail,calendar_set
+did i leave myself any reminders,calendar_query,qa_factoid
+please play some jazz music,play_music,calendar_set
+add red wine to my shopping list,lists_createoradd,qa_factoid
+the weather was bad today,general_quirky,qa_factoid
+in which field does that person <unk> in,qa_factoid,calendar_query
+i want the light to be a little more red <unk>,iot_hue_lightchange,qa_factoid
+contacts please,email_querycontact,calendar_set
+play silent song,play_music,qa_factoid
+answer to pawel's email,email_sendemail,qa_factoid
+i have a nine am meeting on wednesday send me a reminder,calendar_set,calendar_set
+which is the highest peak in the world,qa_factoid,calendar_set
+can i get a recipe for tuna,cooking_recipe,play_music
+play a <unk> playlist,play_music,play_music
+find exchange rate for u. s. d. to pound,qa_currency,play_music
+set feeling happy status on facebook,social_post,play_music
+check unread emails from amy,email_query,qa_factoid
+can you play me a rap song on the radio,play_radio,calendar_set
+remove the latest alarm,alarm_remove,calendar_set
+i like <unk> songs,music_likeness,calendar_set
+turn off all lights,iot_hue_lightoff,play_music
+play all order of the green hand from previous week,play_podcasts,calendar_set
+turn down lights,iot_hue_lightdim,qa_factoid
+give me my latest email,email_query,calendar_set
+find a description about a samsung tv,qa_definition,calendar_set
+post hey everyone on facebook,social_post,calendar_set
+the news from cbs alexa,news_query,play_music
+can i order take out from <unk>,takeaway_order,play_music
+remove shopping list,lists_remove,calendar_set
+it is a sunny day today right,weather_query,calendar_set
+how is the weather in san francisco,weather_query,calendar_set
+latest news from the area,news_query,qa_factoid
+i wish to know the weather in san <unk>,weather_query,calendar_set
+ticket for bombay,transport_ticket,calendar_set
+i helped a poor needy today olly,general_quirky,calendar_set
+please check the weather in kansas,weather_query,calendar_set
+any breaking news from the huffington post,news_query,calendar_set
+i just got an email from bill i need to answer it right now,email_sendemail,general_quirky
+the definition of life,qa_definition,qa_factoid
+how many new emails have i received today,email_query,calendar_set
+when does the super bowl officially start,qa_factoid,calendar_set
+olly get me the popular news from bbc,news_query,qa_factoid
+what is the time in china,datetime_query,calendar_set
+make a grocery list please,lists_createoradd,calendar_set
+should i take a sweater or a coat to work today,weather_query,calendar_set
+play the most popular song by given artist,play_music,calendar_set
+olly give me some dim light,iot_hue_lightdim,calendar_set
+tell me some best tourist places to visit in america,recommendation_locations,calendar_set
+if there is event of show then remove it,lists_remove,calendar_query
+text an email to donna hey what are you doing today,email_sendemail,qa_factoid
+what all goes into a red <unk> cake,cooking_recipe,calendar_set
+how would you describe a happy birthday,qa_definition,calendar_set
+get me a person <unk>,social_post,calendar_set
+what is price of dollar,qa_currency,calendar_set
+send me a reminder of my meeting with tom next friday,calendar_set,calendar_set
+please set a notification on twenty third october about meeting with my colleague,calendar_set,calendar_set
+start podcasts on <unk>,play_podcasts,qa_factoid
+please check the trending topics on twitter,social_query,calendar_set
+tell me about city traffic,transport_traffic,qa_factoid
+lets hear the united states of anxiety podcast,play_podcasts,calendar_set
+give me the list of available train tickets from edinburgh to leeds,transport_query,play_music
+check definition of capricious,qa_definition,qa_factoid
+what's the time in australia,datetime_query,calendar_set
+cancel next meeting,calendar_remove,play_music
+please mute my speaker,audio_volume_mute,play_music
+power on wemo,iot_wemo_on,calendar_set
+music third day,play_music,qa_factoid
+please turn my speakers on google,audio_volume_up,play_music
+please play this playback on audiobook,play_audiobook,calendar_set
+start <unk> five of physics for future <unk>,play_audiobook,play_music
+search for podcasts that <unk> men's issues,play_podcasts,qa_factoid
+can you delete the next event,calendar_remove,calendar_set
+turn the living <unk> light off,iot_hue_lightoff,calendar_set
+find an oscar <unk> movie,recommendation_movies,calendar_set
+do i have a meeting on saturday march twenty fifth,calendar_query,play_music
+turn up the volume on my speakers,audio_volume_up,calendar_set
+hey olly play the radio,play_radio,qa_factoid
+hey reply a mail which i received,email_sendemail,calendar_set
+please list all my alarms,alarm_query,calendar_set
+tell me today's direction,transport_query,qa_factoid
+remove the alarm for tomorrow,alarm_remove,calendar_set
+clear data,audio_volume_mute,qa_factoid
+play songs by barenaked ladies,play_music,qa_factoid
+remind me to move so there is no weight gain,calendar_set,qa_factoid
+what's new in the news,news_query,qa_factoid
+what's this week's weather,weather_query,calendar_set
+please change the light colors to red,iot_hue_lightchange,calendar_set
+set the speakers to mute,audio_volume_mute,calendar_set
+change the station to eighty two point four,play_radio,calendar_set
+mention event in calendar with others,calendar_set,calendar_query
+is dinner ready yet,takeaway_query,qa_factoid
+what alarms are set,alarm_query,calendar_set
+compose an email to bob,email_sendemail,calendar_set
+can you tell me about animal <unk> in amazon forest,general_quirky,calendar_set
+for how many years was abraham lincoln president of united states,qa_factoid,calendar_set
+what are the latest news headlines,news_query,calendar_set
+book me a train ticket,transport_ticket,calendar_set
+today i searched all over for my phone and couldn't find it,general_quirky,calendar_set
+show bbc news of migration,news_query,qa_factoid
+boiling,cooking_recipe,calendar_set
+what <unk> are listed in my contacts,lists_query,calendar_set
+i can barely hear you,audio_volume_up,calendar_set
+siri today is what date,datetime_query,qa_factoid
+clear my calendar for saturday,calendar_remove,calendar_set
+play songs by the band the beatles,play_music,qa_factoid
+can you turn on the radio,play_radio,calendar_set
+have i gotten any new email,email_query,qa_factoid
+remove the list,lists_remove,calendar_query
+play the last doctor who radio broadcast,play_radio,calendar_set
+please set the brightness of <unk> <unk> in kitchen,iot_hue_lightup,qa_factoid
+check new emails,email_query,play_music
+is it going to be sunny next tuesday,weather_query,qa_factoid
+get city cab here to airport,transport_taxi,calendar_set
+can you play my favorite audio book of <unk>,play_audiobook,qa_factoid
+olly i need to hear some sad songs today,play_music,calendar_query
+i am going to work today,general_quirky,calendar_set
+find funny jokes,general_joke,calendar_set
+will you put on the music,play_music,calendar_query
+is <unk> having a new movie this year,qa_factoid,play_music
+i need to know more about the <unk> this weekend,general_quirky,calendar_set
+let's play global <unk> war,play_game,calendar_set
+it's my mother's birthday today send me a notification every year on this date,calendar_set,calendar_set
+i can't see turn up the lights,iot_hue_lightup,calendar_query
+where is my meeting at nine am,calendar_query,calendar_set
+olly how long should i boil the egg,cooking_recipe,play_music
+what's the weather next wednesday,weather_query,calendar_set
+olly check my email,email_query,calendar_set
+open pandora,play_radio,play_music
+tell me when obama was born,qa_factoid,play_music
+stop start the juice,iot_wemo_on,calendar_query
+may i have a list of five star hotels in paris,qa_factoid,calendar_set
+calendar event send invite bill <unk>,calendar_set,qa_factoid
+i want to thank everyone for the birthday wishes,social_post,calendar_set
+how big is the empire state building,qa_factoid,qa_factoid
+remind me after ten minutes,calendar_set,qa_factoid
+clear my activities list for today,lists_remove,calendar_set
+how much will be the world population after twenty years,general_quirky,calendar_set
+is my alarm set,alarm_query,play_music
+add shopping to my calendar for tomorrow,calendar_set,calendar_set
+play <unk>,play_music,calendar_set
+shut off the socket,iot_wemo_off,calendar_set
+current weather forecast,weather_query,play_music
+what is the location of <unk>,qa_factoid,calendar_query
+please play a song by bruno mars,play_music,calendar_set
+begin vacuuming,iot_cleaning,qa_factoid
+how far away is the sun,qa_factoid,calendar_set
+are there any alarms currently set,alarm_query,calendar_set
+alexa give me the headline news,news_query,play_music
+wedding wishes,social_post,play_music
+is there any upcoming events,calendar_query,play_music
+retrieve the light for me,iot_hue_lightup,calendar_set
+is the time currently correct for where i am located,datetime_query,calendar_set
+tweet that product sucks,social_post,calendar_set
+silence volume on speakers,audio_volume_mute,calendar_set
+i'd like to listen to hear a music of dance and country,play_music,calendar_set
+my vacuum cleaner should start between ten to eleven am everyday,iot_cleaning,calendar_set
+dim the lights in the living room,iot_hue_lightdim,calendar_set
+open a reminder about next weeks managers meeting on tuesday,calendar_set,calendar_set
+what is the least <unk> <unk> state in the entire us,qa_factoid,qa_factoid
+play my station,play_radio,play_music
+turn on an alarm for three thirty pm today,alarm_set,calendar_set
+let me know the recipe for preparing pasta,cooking_recipe,calendar_set
+turn on wemo,iot_wemo_on,calendar_set
+please turn off the light of my son's room,iot_hue_lightoff,qa_factoid
+start pandora,play_radio,calendar_set
+what about new mail,email_query,calendar_set
+should i take my raincoat with me now,weather_query,qa_factoid
+new event,calendar_set,qa_factoid
+play slayer,play_music,calendar_set
+set a birthday event for martin,calendar_set,calendar_set
+ok google play one hundred and six point seven,play_radio,qa_factoid
+remove the first alarm,alarm_remove,calendar_set
+start a <unk> <unk> for us,play_game,calendar_set
+play my favorite song from last year,play_music,calendar_set
+whats the weather now,weather_query,calendar_set
+please sent this email to my friend,email_sendemail,calendar_set
+hey what is the weather like today,weather_query,play_music
+email alice to let her know we are on the way,email_sendemail,calendar_set
+remove <unk> event,calendar_remove,calendar_set
+play game,play_game,calendar_set
+change the bedroom lights to green,iot_hue_lightchange,calendar_set
+please ring the wake up alarm at eight am next saturday,alarm_set,calendar_set
+spell and define oscillate,qa_definition,play_music
+send report to consumer service,post,calendar_set
+start a game and play with me,play_game,calendar_set
+what is the deepest point on earth,qa_factoid,calendar_set
+exhibition two thousand and seventeen mass on mar twenty five make a note of it on the <unk> date,calendar_set,calendar_set
+hey do i have any new emails,email_query,calendar_set
+open <unk> game for you and i,play_game,calendar_query
+look up the map to stores near me,transport_query,play_music
+how is the weather,weather_query,calendar_set
+could you explain the meaning of <unk> for me please,qa_definition,calendar_set
+do you know any jokes,general_joke,calendar_set
+whats the time in sydney now,datetime_query,calendar_set
+change the lights to blue olly,iot_hue_lightchange,calendar_set
+book train best deal,transport_ticket,calendar_set
+what is the definition of logic,qa_definition,calendar_set
+put that song in my favourite list,music_likeness,calendar_set
+any special events on my list,lists_query,qa_factoid
+add this new email with contact,email_addcontact,calendar_set
+can i please have the weather for tomorrow here in costa mesa,weather_query,calendar_query
+remind me the meeting with allen on fifteenth march,calendar_set,qa_factoid
+give details of rock sand,qa_definition,calendar_set
+olly start the podcast over that i started last night,play_podcasts,calendar_query
+olly i need a drink,iot_coffee,qa_factoid
+can you give me the details of upcoming annual function on twenty sixth march,general_quirky,calendar_set
+i would like to hear <unk> <unk> call me after this song,play_music,calendar_query
+create an email for my co worker with my recently saved documents,email_sendemail,qa_factoid
+alexa play a mi song of rap and rock one after the other,play_music,qa_factoid
+tell me international news,query,calendar_set
+please set my alarm for five pm,alarm_set,play_music
+how long does it take to make vegetable lasagna,cooking_recipe,calendar_set
+i would need to be <unk> of church services on sundays at eleven am,calendar_set,calendar_set
+olly what is the weather forecast for today,weather_query,qa_factoid
+tell me today's date,datetime_query,play_music
+what's jlo up to,general_quirky,qa_factoid
+start robot vacuum cleaner,iot_cleaning,calendar_set
+hello how is your day,general_quirky,qa_factoid
+i want a meeting till three o clock,calendar_set,qa_factoid
+can you write an email to chelsea,email_sendemail,calendar_set
+how do i cook butter chicken,cooking_recipe,calendar_set
+tell me the time in <unk>,datetime_convert,qa_factoid
+please mute for five minutes,audio_volume_mute,calendar_set
+will there any events downtown this weekend,calendar_query,calendar_set
+please give me information on michael jackson,qa_factoid,calendar_set
+play random music,play_music,play_music
+show me the current time in germany,datetime_query,calendar_set
+what's been happening for the last two months,news_query,calendar_set
+tell comcast i hate them,social_post,calendar_set
+please pull up the wikipedia article on <unk> <unk>,general_quirky,play_music
+lower the speaker volume,audio_volume_down,calendar_set
+two thumbs down at company name,social_post,qa_factoid
+how many states have the death <unk>,qa_factoid,calendar_set
+what is the <unk> of west virginia,qa_factoid,calendar_set
+i need you to mark next monday,calendar_set,calendar_query
+i need a ride home,transport_taxi,calendar_set
+clear my next activity,calendar_remove,qa_factoid
+list current set alarms,alarm_query,play_music
+please schedule a meeting with this person,calendar_set,qa_factoid
+create a new list,lists_createoradd,calendar_set
+hows the food order going,takeaway_query,calendar_set
+did i tell you to remind me something,calendar_query,calendar_set
+i bought pre season baseball tickets,general_quirky,calendar_set
+show geographic details of <unk>,qa_factoid,play_music
+tell me a funny joke,joke,calendar_query
+what is the most current exchange rate in china,qa_currency,calendar_set
+what time does the train arrive in sacramento,transport_query,calendar_set
+how is the weather where i am,weather_query,calendar_set
+what do i have planned for this week,calendar_query,calendar_set
+can you tell me a joke,joke,calendar_set
+will it be rainy tomorrow,weather_query,calendar_set
+how its come to us,email_sendemail,calendar_set
+hey siri what's the time,datetime_query,qa_factoid
+hey do you have home delivery,takeaway_query,qa_factoid
+create a playlist,lists_createoradd,calendar_set
+tell me the weather in barcelona in two days from now,weather_query,general_quirky
+can you book an uber tomorrow,transport_taxi,calendar_set
+video games,play_game,play_music
+play the weekend,play_music,calendar_set
+submit a negative review about a company,social_post,calendar_set
+i need you to get me up at six am,alarm_set,calendar_set
+get todays climate forecast here,weather_query,calendar_set

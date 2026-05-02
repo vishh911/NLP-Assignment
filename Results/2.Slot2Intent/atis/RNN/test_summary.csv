@@ -1,0 +1,2 @@
+dataset,model,intent_test_loss,intent_test_accuracy,intent_test_precision_macro,intent_test_recall_macro,intent_test_f1_macro,intent_train_time_sec,intent_test_time_sec
+atis,RNN,1.3539440420947444,0.7054871220604704,0.03077674645819698,0.04334067143636511,0.03599382960804467,17.025062084197998,0.11695265769958496

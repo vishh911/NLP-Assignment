@@ -1,0 +1,2 @@
+dataset,model,slot_test_loss,slot_test_precision_micro,slot_test_recall_micro,slot_test_f1_micro,slot_test_precision_macro,slot_test_recall_macro,slot_test_f1_macro,slot_train_time_sec,slot_test_time_sec
+atis,RNN,0.3240286111831665,0.9379611915821432,0.9379611915821432,0.9379611910821432,0.6290907236794144,0.5954009962526634,0.5985829467991551,18.405333757400513,0.2485055923461914

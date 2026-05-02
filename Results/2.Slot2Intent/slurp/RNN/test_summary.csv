@@ -1,0 +1,2 @@
+dataset,model,intent_test_loss,intent_test_accuracy,intent_test_precision_macro,intent_test_recall_macro,intent_test_f1_macro,intent_train_time_sec,intent_test_time_sec
+slurp,RNN,2.521355443780023,0.34129119031607263,0.12936244123843849,0.1340358823260523,0.1174250280520202,34.33120894432068,0.7298469543457031

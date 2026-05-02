@@ -1,0 +1,2 @@
+dataset,model,intent_test_loss,intent_test_accuracy,intent_test_precision_macro,intent_test_recall_macro,intent_test_f1_macro,intent_train_time_sec,intent_test_time_sec
+slurp,LSTM,1.169494073945721,0.7676529926025555,0.46082275710252985,0.4566539435531717,0.4544996425951659,58.242982387542725,0.9130995273590088

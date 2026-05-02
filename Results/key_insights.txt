@@ -1,0 +1,9 @@
+KEY FINDINGS & INSIGHTS
+====================================================================================================
+
+Best Approach: Joint Model (74.76%)
+Intent Best: Slot→Intent
+Slot Best: Intent→Slot
+Architecture Winner: LSTM
+Harder Dataset: SLURP
+Most Efficient: Joint Model

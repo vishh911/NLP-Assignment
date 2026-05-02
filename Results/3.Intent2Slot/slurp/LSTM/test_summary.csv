@@ -1,0 +1,2 @@
+dataset,model,slot_test_loss,slot_test_precision_micro,slot_test_recall_micro,slot_test_f1_micro,slot_test_precision_macro,slot_test_recall_macro,slot_test_f1_macro,slot_train_time_sec,slot_test_time_sec
+slurp,LSTM,1.21772405008475,0.7644885707686989,0.7644885707686989,0.7644885702686989,0.6131948476083936,0.5792586279885141,0.5862484926174673,62.58334541320801,1.1528725624084473

@@ -48,7 +48,7 @@ NLP-Classification-System/
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Tech Stack Used
 
 * Python
 * Jupyter Notebook

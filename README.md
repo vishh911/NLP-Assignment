@@ -6,7 +6,7 @@ An end-to-end Natural Language Processing (NLP) project focused on text preproce
 
 ## 📌 Project Overview
 
-This project was developed to explore practical NLP workflows including:
+This project was developed to explore the practical NLP workflows including:
 
 * Text preprocessing and cleaning
 * Feature extraction

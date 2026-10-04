@@ -20,7 +20,7 @@ The system processes textual data and applies machine learning models to perform
 
 ## 🚀 Features
 
-* Data preprocessing pipelines
+* Data preprocessing pipeline
 * Tokenization and text normalization
 * Model training and evaluation
 * Prediction correction and post-processing
